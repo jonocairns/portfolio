@@ -22,7 +22,7 @@ export default class Example extends React.Component {
     render() {
         return (
             <div>
-                <Navbar color="faded" light expand="md" toggleable="md" fixed={`top`}>
+                <Navbar color="white" light expand="md" fixed={`top`}>
                     {/* <NavbarBrand href="/">reactstrap</NavbarBrand> */}
                     <NavbarToggler onClick={this.toggle} role="button" />
                     <Collapse isOpen={this.state.isOpen} navbar className="d-lg-flex justify-content-lg-center">
