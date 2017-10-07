@@ -1,0 +1,37 @@
+import React, { Component } from 'react';
+import phone from './assets/phone.svg';
+import email from './assets/email.svg';
+import ln from './assets/ln.svg';
+import vimeo from './assets/vimeo.svg';
+import content from './content.json';
+import './App.css';
+
+
+class Jumbotron extends Component {
+    render() {
+        return (
+            <div className="App-bg d-flex justify-content-center align-items-center">
+                <div id="home">
+                    <h1 className="baller">{content.title}</h1>
+                    <ul className="App-bg--connect d-flex justify-content-center">
+
+                        <li className="ml-2 p-2" role="button">
+                            <a href={`mailto:${content.contact.email}`}><img src={email} alt="email" /></a>
+                        </li>
+                        <li className="ml-2 p-2" role="button">
+                            <a href={content.contact.social.linkedIn}><img src={ln} alt="linkedin" className="linkedin" /></a>
+                        </li>
+                        <li className="ml-2 p-2"  role="button">
+                            <a target="_blank" href={`tel:${content.contact.phone}`}><img src={phone} alt="phone" /></a>
+                        </li>
+                        <li className="ml-2 p-2"  role="button">
+                            <a target="_blank" href={content.contact.social.vimeo}><img src={vimeo} width="46" alt="vimeo" /></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        );
+    }
+}
+
+export default Jumbotron;

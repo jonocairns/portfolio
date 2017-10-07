@@ -1,0 +1,63 @@
+.App-menu {
+  background-color: #222;
+  color: white;
+}
+
+.App-menu ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.App-menu li {
+  float:left;
+  padding: 20px;
+  font-weight: 500;
+}
+
+.App-menu li:hover {
+  cursor: pointer;
+  background-color: white;
+  color: black;
+}
+
+.App-bg {
+  background: url('./assets/bg2.jpg') top center;
+  min-height: 400px;
+}
+
+.App-bg h1 {
+  color: white;
+}
+
+.App-bg--connect {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.App-bg--connect li { 
+  float:left;
+}
+
+.linkedin {
+  width: 42px;
+  height: 42px;
+}
+
+.App-text {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.App-section--title {
+  border-bottom: 3px solid #11ABB0;
+  padding-bottom: 6px;
+  font-weight: 700;
+}
+
+.baller {
+  font-family: 'Sarina', cursive;
+}
+
+.header-font {
+  font-family: 'Mrs Sheppards', cursive;
+}

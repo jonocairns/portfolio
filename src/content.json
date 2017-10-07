@@ -1,0 +1,67 @@
+{
+    "title": "Ellie Earle",
+
+    "about": {
+        "title": "About Me",
+        "paragraphs": [
+            "Conscientious, results-driven, articulate and analytical software engineer with several years’ exposure in data-driven software engineering teams; primarily focusing on backend and systems development of large-scale distributed systems. Strong in architectural research, software design and agile team management, having served as a tech lead at multiple companies.", 
+            "Excellent written and verbal communication skills. Interested in challenging technical roles in scaling distributed web applications."]
+    },
+
+    "contact": {
+        "title": "Contact Me",
+        "location": "Location: Auckland, New Zealand",
+        "phone": "(+64) 21 123 4567",
+        "email": "elizabeth.h.earle@gmail.com",
+        "social": {
+            "linkedIn": "https://www.linkedin.com/in/ellieearleonlinkedin",
+            "vimeo": "https://vimeo.com/ellieearle"
+        }
+    },
+
+    "sections": [{
+        "title": "work",
+        "items": [{
+            "title": "Blah Technologies",
+            "subtitle": "Role  •  Location  • Dates",
+            "attributes": [
+                "Involved in the development and maintenance of the company’s 2 main products in the IOT industry: Nixplay Frames and Nixplay Signage Frames.",
+                "Containerized all of the company's microservices for development and deployment using Docker with orchestration handled by AWS Elastic Container Service."
+            ]
+        }]
+    }],
+
+    "skills": {
+        "paragraphs": [
+            "Worked primarily with JavaScript, Python and C++, with frameworks such as Express.js, Koa.js, React.js, Django and Flask.",
+            "Interested in functional programming and serverless architectures, exploring with Erlang and AWS Lambda respectively."
+        ],
+
+        "items": [
+            {
+                "title": "Being a baller",
+                "percent": 69
+            },
+            {
+                "title": "Being not good",
+                "percent": 1
+            },
+            {
+                "title": "Smokin the dank weed",
+                "percent": 100
+            },
+            {
+                "title": "Cooking meth",
+                "percent": 50
+            },
+            {
+                "title": "Adobe Ballershop",
+                "percent": 100
+            },
+            {
+                "title": "Finding my keys",
+                "percent": 25
+            }
+        ]
+    }
+}
