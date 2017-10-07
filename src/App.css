@@ -61,3 +61,7 @@
 .header-font {
   font-family: 'Mrs Sheppards', cursive;
 }
+
+.nav-link {
+  cursor: pointer;
+}
