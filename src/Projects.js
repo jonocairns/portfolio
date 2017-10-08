@@ -45,8 +45,7 @@ class Projects extends Component {
                         <CardImg top src={p.image} alt={p.alt} />
                         <CardBody>
                             <CardTitle>{p.title}</CardTitle>
-                            <CardSubtitle>{p.subtitle}</CardSubtitle>
-                            {p.text.map((t, index) => <CardText key={`project-${i}-text-${index}`}>{t}</CardText>)}
+                            <CardSubtitle className="App-portfolio--subtitle">{p.subtitle}</CardSubtitle>
                         </CardBody>
                     </Card></div>)}
 

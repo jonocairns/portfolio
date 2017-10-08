@@ -14,7 +14,7 @@ export default class Example extends React.Component {
         };
     }
     toggle = () => {
-        if(window.innerWidth < 1200) {
+        if (window.innerWidth < 1200) {
             this.setState({
                 isOpen: !this.state.isOpen
             });
@@ -38,7 +38,7 @@ export default class Example extends React.Component {
                     <Collapse isOpen={this.state.isOpen} navbar className="d-lg-flex justify-content-lg-center">
                         <Nav navbar>
                             <NavItem>
-                                <a className="nav-link" role="button"  onClick={this.scrollToTop}>Home</a>
+                                <a className="nav-link" role="button" onClick={this.scrollToTop}>Home</a>
                             </NavItem>
                             <NavItem>
                                 <Link className="nav-link" role="button" onClick={this.toggle} smooth={true} duration={500} to="about" offset={-56} >
@@ -59,12 +59,6 @@ export default class Example extends React.Component {
                             <NavItem>
                                 <Link className="nav-link" role="button" onClick={this.toggle} smooth={true} duration={500} to="portfolio" offset={-56}>
                                     Portfolio
-                                </Link>
-
-                            </NavItem>
-                            <NavItem>
-                                <Link className="nav-link" role="button" onClick={this.toggle} smooth={true} duration={500} to="references" offset={-56}>
-                                    References
                                 </Link>
 
                             </NavItem>

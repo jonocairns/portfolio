@@ -80,9 +80,9 @@
   font-size: 40px;
 }
 
-.masonry {
-	display: flex;
-	flex-direction: column;
-	flex-wrap: wrap;
-	height: 100vw;
+.App-portfolio--subtitle {
+  text-overflow: ellipsis;
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
 }
