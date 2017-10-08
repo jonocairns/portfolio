@@ -18,9 +18,11 @@
   font-family: 'Sarina', cursive;
 }
 
-.App-portfolio--subtitle {
-  text-overflow: ellipsis;
-  width: 100%;
-  white-space: nowrap;
-  overflow: hidden;
+.App-portfolio {
+  &--subtitle {
+    text-overflow: ellipsis;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+  }
 }
