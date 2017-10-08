@@ -118,30 +118,30 @@
     },
     "projects": [
         {
-            "title": "My dank project",
-            "subtitle": "Something Something Something Something Something Something Something Something Something ",
+            "title": "Melbourne Cup Invitation",
+            "subtitle": "Design & Concept",
             "text": [
-                "Some quick example text to build on the card title and make up the bulk of the card's content."
+                ""
             ],
-            "image": "https://placeholdit.imgix.net/~text?txtsize=33&txt=318%C3%97180&w=318&h=180",
+            "image": "https://i.imgur.com/CEjFhq6.png",
             "alt": "alt text for image"
         },
         {
-            "title": "My dank project",
-            "subtitle": "Shorter content here",
+            "title": "First Blood",
+            "subtitle": "Poster Concept Art",
             "text": [
-                "Some quick example text to build on the card title and make up the bulk of the card's content."
+                ""
             ],
-            "image": "https://placeholdit.imgix.net/~text?txtsize=33&txt=318%C3%97180&w=318&h=180",
+            "image": "https://i.imgur.com/VHiHhMc.png",
             "alt": "alt text for image"
         },
         {
-            "title": "My dank project",
-            "subtitle": "Blah mcgee",
+            "title": "AECOM House",
+            "subtitle": "Research Project Designs",
             "text": [
-                "Some quick example text to build on the card title and make up the bulk of the card's content."
+                ""
             ],
-            "image": "https://placeholdit.imgix.net/~text?txtsize=33&txt=318%C3%97180&w=318&h=180",
+            "image": "https://i.imgur.com/oeTR20J.png",
             "alt": "alt text for image"
         }
     ]

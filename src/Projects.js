@@ -32,13 +32,19 @@ class Projects extends Component {
                 right: 'auto',
                 bottom: 'auto',
                 marginRight: '-50%',
-                transform: 'translate(-50%, -50%)'
+                transform: 'translate(-50%, -50%)',
+                width: '100%',
+                height: '350px',
+                overlfow: 'scroll',
+                marginTop: '56px',
+                backgroundColor: 'white',
+                overflow: 'scroll'
             }
         };
 
         return (
             <div className="mt-4">
-                <Heading title={`portfolio`} anchor={'portfolio'}  />
+                <Heading title={`portfolio`} anchor={'portfolio'} />
                 <div className="d-flex justify-content-start flex-wrap row">
 
                     {content.projects.map((p, i) => <div key={`project-${i}`} onClick={e => this.open(e, i)} className="col-12 col-md-6 col-lg-4 pr-3 pb-3"><Card>
@@ -53,17 +59,20 @@ class Projects extends Component {
                 {this.state.itemOpen !== -1 && <Modal
                     isOpen={this.state.itemOpen !== -1}
                     contentLabel="Modal"
-                    className="App-modal-offset"
                     customStyles={customStyles}
                     shouldCloseOnOverlayClick={true}
-                    onRequestClose={ this.close }
+                    onRequestClose={this.close}
                 >
                     <div className="container App-modal-border p-5">
                         <button onClick={this.close} type="button" className="close click p-2 App-text" aria-label="Close">
                             <span aria-hidden="true">&times;</span>
                         </button>
-                        <h1>{content.projects[this.state.itemOpen].title}</h1>
-                        {content.projects[this.state.itemOpen].text.map((t, index) => <p key={`project-${this.state.itemOpen}-text-modal-${index}`}>{t}</p>)}
+                        <div className="d-flex flex-column">
+                            <h1>{content.projects[this.state.itemOpen].title}</h1>
+                            {content.projects[this.state.itemOpen].text.map((t, index) => <p key={`project-${this.state.itemOpen}-text-modal-${index}`}>{t}</p>)}
+                            <img className="w-100" src={content.projects[this.state.itemOpen].image} alt={content.projects[this.state.itemOpen].alt} />
+                        </div>
+
                     </div>
                 </Modal>}
             </div>
