@@ -63,5 +63,73 @@
                 "percent": 25
             }
         ]
-    }
+    },
+
+    "projects": [
+        {
+            "title": "My dank project",
+            "subtitle": "",
+            "text": [
+                "Some quick example text to build on the card title and make up the bulk of the card's content."
+            ],
+            "image": "https://placeholdit.imgix.net/~text?txtsize=33&txt=318%C3%97180&w=318&h=180",
+            "alt": "alt text for image"
+        },
+        {
+            "title": "My dank project",
+            "subtitle": "",
+            "text": [
+                "Some quick example text to build on the card title and make up the bulk of the card's content."
+            ],
+            "image": "https://placeholdit.imgix.net/~text?txtsize=33&txt=318%C3%97180&w=318&h=180",
+            "alt": "alt text for image"
+        },
+        {
+            "title": "My dank project",
+            "subtitle": "",
+            "text": [
+                "Some quick example text to build on the card title and make up the bulk of the card's content."
+            ],
+            "image": "https://placeholdit.imgix.net/~text?txtsize=33&txt=318%C3%97180&w=318&h=180",
+            "alt": "alt text for image"
+        },
+        {
+            "title": "My dank project",
+            "subtitle": "",
+            "text": [
+                "Different text here"
+            ],
+            "image": "https://placeholdit.imgix.net/~text?txtsize=33&txt=318%C3%97180&w=318&h=180",
+            "alt": "alt text for image"
+        },
+        {
+            "title": "My dank project",
+            "subtitle": "",
+            "text": [
+                "Some quick example text to build on the card title and make up the bulk of the card's content.",
+                "Some quick example text to build on the card title and make up the bulk of the card's content.",
+                "Some quick example text to build on the card title and make up the bulk of the card's content."
+            ],
+            "image": "https://placeholdit.imgix.net/~text?txtsize=33&txt=318%C3%97180&w=318&h=180",
+            "alt": "alt text for image"
+        },
+        {
+            "title": "My dank project",
+            "subtitle": "",
+            "text": [
+                "Some quick example text to build on the card title and make up the bulk of the card's content."
+            ],
+            "image": "https://placeholdit.imgix.net/~text?txtsize=33&txt=318%C3%97180&w=318&h=180",
+            "alt": "alt text for image"
+        },
+        {
+            "title": "My dank project",
+            "subtitle": "",
+            "text": [
+                "Some quick example text to build on the card title and make up the bulk of the card's content."
+            ],
+            "image": "https://placeholdit.imgix.net/~text?txtsize=33&txt=318%C3%97180&w=318&h=180",
+            "alt": "alt text for image"
+        }
+    ]
 }

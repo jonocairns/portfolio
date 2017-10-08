@@ -6,6 +6,7 @@ import About from './About';
 import Contact from './Contact';
 import Section from './Section';
 import Skills from './Skills';
+import Projects from './Projects';
 import content from './content.json';
 
 class App extends Component {
@@ -20,6 +21,7 @@ class App extends Component {
           <Contact />
           {content.sections.map((s, i) => <Section key={`section-${i}`} title={s.title} items={s.items} />)}
           <Skills />
+          <Projects />
         </div>
 
       </div>
