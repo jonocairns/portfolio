@@ -1,0 +1,26 @@
+@import './Overrides.scss';
+@import './Jumbotron.scss';
+@import './Modal.scss';
+
+.App-text {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.App-section {
+  &--title {
+    border-bottom: 3px solid #11ABB0;
+    padding-bottom: 6px;
+    font-weight: 700;
+  }
+}
+
+.header-font {
+  font-family: 'Sarina', cursive;
+}
+
+.App-portfolio--subtitle {
+  text-overflow: ellipsis;
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+}

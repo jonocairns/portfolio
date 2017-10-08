@@ -1,0 +1,23 @@
+.App-bg {
+    background: url('./assets/bg2.jpg') top center;
+    min-height: 400px;
+
+    h1 {
+        color: white;
+    }
+
+    &--connect {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+
+        li { 
+            float:left;
+        }
+    }
+
+    .linkedin {
+        width: 42px;
+        height: 42px;
+    }
+}
