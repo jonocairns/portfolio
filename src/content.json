@@ -57,6 +57,7 @@
                         "It was extremely busy, but very rewarding work."
                     ]
                 }
+<<<<<<< HEAD
             ]
         },
         {
@@ -83,6 +84,34 @@
                     "attributes": []
                 }
             ]
+=======
+            ]
+        },
+        {
+            "title": "education",
+            "items": [
+                {
+                    "title": "Bachelor of Art & Design",
+                    "subtitle": "Media Design School  • February 2011 - November 2014",
+                    "attributes": []
+                },
+                {
+                    "title": "Diploma of Video Post Production - Advanced",
+                    "subtitle": "Natcoll Design Technology  • June 2009 - April 2010",
+                    "attributes": []
+                },
+                {
+                    "title": "Diploma of Video Post Production",
+                    "subtitle": "Natcoll Design Technology  • January 2008 - November 2008",
+                    "attributes": []
+                },
+                {
+                    "title": "Diploma of Film & Television Production",
+                    "subtitle": "New Zealand Boradcasting School  • January 2006 - November 2007",
+                    "attributes": []
+                }
+            ]
+>>>>>>> master
         }
     ],
     "skills": {
@@ -118,30 +147,30 @@
     },
     "projects": [
         {
-            "title": "My dank project",
-            "subtitle": "Something Something Something Something Something Something Something Something Something ",
+            "title": "Melbourne Cup Invitation",
+            "subtitle": "Design & Concept",
             "text": [
-                "Some quick example text to build on the card title and make up the bulk of the card's content."
+                ""
             ],
-            "image": "https://placeholdit.imgix.net/~text?txtsize=33&txt=318%C3%97180&w=318&h=180",
+            "image": "https://i.imgur.com/CEjFhq6.png",
             "alt": "alt text for image"
         },
         {
-            "title": "My dank project",
-            "subtitle": "Shorter content here",
+            "title": "First Blood",
+            "subtitle": "Poster Concept Art",
             "text": [
-                "Some quick example text to build on the card title and make up the bulk of the card's content."
+                ""
             ],
-            "image": "https://placeholdit.imgix.net/~text?txtsize=33&txt=318%C3%97180&w=318&h=180",
+            "image": "https://i.imgur.com/VHiHhMc.png",
             "alt": "alt text for image"
         },
         {
-            "title": "My dank project",
-            "subtitle": "Blah mcgee",
+            "title": "AECOM House",
+            "subtitle": "Research Project Designs",
             "text": [
-                "Some quick example text to build on the card title and make up the bulk of the card's content."
+                ""
             ],
-            "image": "https://placeholdit.imgix.net/~text?txtsize=33&txt=318%C3%97180&w=318&h=180",
+            "image": "https://i.imgur.com/oeTR20J.png",
             "alt": "alt text for image"
         }
     ]
