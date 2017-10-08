@@ -1,70 +1,121 @@
 {
     "title": "Ellie Earle",
-
     "about": {
         "title": "About Me",
         "paragraphs": [
-            "Conscientious, results-driven, articulate and analytical software engineer with several years’ exposure in data-driven software engineering teams; primarily focusing on backend and systems development of large-scale distributed systems. Strong in architectural research, software design and agile team management, having served as a tech lead at multiple companies.", 
-            "Excellent written and verbal communication skills. Interested in challenging technical roles in scaling distributed web applications."]
+            "I'm a highly creative, passionate person and an empathetic team player. My love of story telling & visual design make me a techsavvy artist, but I also harbour excellent communication skills.",
+            "I have a background in both front-facing customer service and administrative roles. My strength lies in my ability to stay calm under pressure and find unique solutions to tricky problems.",
+            "I pride myself in being a reliable, consistent source of positive energy, caffiene, and terrible puns."
+        ]
     },
-
     "contact": {
         "title": "Contact Me",
         "location": "Location: Auckland, New Zealand",
-        "phone": "(+64) 21 123 4567",
+        "phone": "(+64) 21 866 629",
         "email": "elizabeth.h.earle@gmail.com",
         "social": {
             "linkedIn": "https://www.linkedin.com/in/ellieearleonlinkedin",
             "vimeo": "https://vimeo.com/ellieearle"
         }
     },
-
-    "sections": [{
-        "title": "work",
-        "items": [{
-            "title": "Blah Technologies",
-            "subtitle": "Role  •  Location  • Dates",
-            "attributes": [
-                "Involved in the development and maintenance of the company’s 2 main products in the IOT industry: Nixplay Frames and Nixplay Signage Frames.",
-                "Containerized all of the company's microservices for development and deployment using Docker with orchestration handled by AWS Elastic Container Service."
+    "sections": [
+        {
+            "title": "work",
+            "items": [
+                {
+                    "title": "CBRE",
+                    "link": "https://www.cbre.co.nz/",
+                    "subtitle": "Marketing Coordinator  •  Auckland  • 2017-now",
+                    "attributes": [
+                        "Managed all commercial advertising for Auckland.",
+                        "Designed content for and organised corperate events"
+                    ]
+                },
+                {
+                    "title": "Smith & Smith Glass",
+                    "link": "https://www.smithandsmith.co.nz/",                    
+                    "subtitle": "CSR  •  Auckland  • 2015-2017",
+                    "attributes": [
+                        "Responsible for delivering consistent Customer Delight. This involved a thorough understanding a wide range of administrative and computer based system to identify products and schedule bookings across over 30 Smith and Smith branches nationwide. It also requires extensive knowledge of products and systems used by technicians in the field."
+                    ]
+                },
+                {
+                    "title": "Vinewood Motion Graphics",
+                    "link": "https://vimeo.com/user431809",                    
+                    "subtitle": "Creative Artist  •  Auckland  • 2014-2015",
+                    "attributes": [
+                        "As a freelance creative artist working under director Phil Brough, I helped him out with anything extra he needed. There was a decent amount of 3D work (for anything from TV adverts to short films), but also some admin work (organising project workflow), and design work. Most important, however, was keeping satisfactory caffiene levels in the office - in which I was more than happy to oblige!"
+                    ]
+                },
+                {
+                    "title": "All About Plumbing",
+                    "link": "",                    
+                    "subtitle": "Customer Service Manager  •  Christchurch  • 2007-2008",
+                    "attributes": [
+                        "Customer service/account management.",
+                        "Staff Management and Job Scheduling. They were specialists in drain laying and gas-fitting as well as general plumbers, so keeping the guys organised and their job schedules full was sometimes a challenge.",
+                        "It was extremely busy, but very rewarding work."
+                    ]
+                }
             ]
-        }]
-    }],
-
+        },
+        {
+            "title": "education",
+            "items": [
+                {
+                    "title": "Bachelor of Art & Design",
+                    "subtitle": "Media Design School  • February 2011 - November 2014",
+                    "attributes": []
+                },
+                {
+                    "title": "Diploma of Video Post Production - Advanced",
+                    "subtitle": "Natcoll Design Technology  • June 2009 - April 2010",
+                    "attributes": []
+                },
+                {
+                    "title": "Diploma of Video Post Production",
+                    "subtitle": "Natcoll Design Technology  • January 2008 - November 2008",
+                    "attributes": []
+                },
+                {
+                    "title": "Diploma of Film & Television Production",
+                    "subtitle": "New Zealand Boradcasting School  • January 2006 - November 2007",
+                    "attributes": []
+                }
+            ]
+        }
+    ],
     "skills": {
         "paragraphs": [
-            "Worked primarily with JavaScript, Python and C++, with frameworks such as Express.js, Koa.js, React.js, Django and Flask.",
-            "Interested in functional programming and serverless architectures, exploring with Erlang and AWS Lambda respectively."
+            ""
         ],
-
         "items": [
             {
-                "title": "Being a baller",
-                "percent": 69
+                "title": "Photoshop",
+                "percent": 90
             },
             {
-                "title": "Being not good",
-                "percent": 1
+                "title": "After Effects",
+                "percent": 95
             },
             {
-                "title": "Smokin the dank weed",
-                "percent": 100
+                "title": "Microsoft Office",
+                "percent": 91
             },
             {
-                "title": "Cooking meth",
-                "percent": 50
+                "title": "Maya",
+                "percent": 92
             },
             {
-                "title": "Adobe Ballershop",
-                "percent": 100
+                "title": "Premier Pro",
+                "percent": 80
             },
             {
-                "title": "Finding my keys",
-                "percent": 25
+                "title": "Mudbox",
+                "percent": 70
             }
         ]
     },
-
     "projects": [
         {
             "title": "My dank project",
@@ -87,44 +138,6 @@
         {
             "title": "My dank project",
             "subtitle": "Blah mcgee",
-            "text": [
-                "Some quick example text to build on the card title and make up the bulk of the card's content."
-            ],
-            "image": "https://placeholdit.imgix.net/~text?txtsize=33&txt=318%C3%97180&w=318&h=180",
-            "alt": "alt text for image"
-        },
-        {
-            "title": "My dank project",
-            "subtitle": "Some quick example text to build on the card title ",
-            "text": [
-                "Different text here"
-            ],
-            "image": "https://placeholdit.imgix.net/~text?txtsize=33&txt=318%C3%97180&w=318&h=180",
-            "alt": "alt text for image"
-        },
-        {
-            "title": "My dank project",
-            "subtitle": "Some quick example text to build on the card title ",
-            "text": [
-                "Some quick example text to build on the card title and make up the bulk of the card's content.",
-                "Some quick example text to build on the card title and make up the bulk of the card's content.",
-                "Some quick example text to build on the card title and make up the bulk of the card's content."
-            ],
-            "image": "https://placeholdit.imgix.net/~text?txtsize=33&txt=318%C3%97180&w=318&h=180",
-            "alt": "alt text for image"
-        },
-        {
-            "title": "My dank project",
-            "subtitle": "Some quick example text to build on the card title ",
-            "text": [
-                "Some quick example text to build on the card title and make up the bulk of the card's content."
-            ],
-            "image": "https://placeholdit.imgix.net/~text?txtsize=33&txt=318%C3%97180&w=318&h=180",
-            "alt": "alt text for image"
-        },
-        {
-            "title": "My dank project",
-            "subtitle": "Some quick example text to build on the card title ",
             "text": [
                 "Some quick example text to build on the card title and make up the bulk of the card's content."
             ],
