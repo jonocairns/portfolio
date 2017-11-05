@@ -1,11 +1,9 @@
 {
-    "title": "Ellie Earle",
+    "title": "",
     "about": {
         "title": "About Me",
         "paragraphs": [
-            "I'm a highly creative, passionate person and an empathetic team player. My love of story telling & visual design make me a techsavvy artist, but I also harbour excellent communication skills.",
-            "I have a background in both front-facing customer service and administrative roles. My strength lies in my ability to stay calm under pressure and find unique solutions to tricky problems.",
-            "I pride myself in being a reliable, consistent source of positive energy, caffiene, and terrible puns."
+            "I’m a results-driven, passionate individual with an eye for creative design and visual storytelling. I have experience in corporate branded design (for a variety of platforms), but I’m also trained in 3D animation, post-production, Visual Effects, production and a variety of other creative fields. I also have a strong understanding of developer processes and am interested in learning more in that field."
         ]
     },
     "contact": {
@@ -25,7 +23,7 @@
                 {
                     "title": "CBRE",
                     "link": "https://www.cbre.co.nz/",
-                    "subtitle": "Marketing Coordinator  •  Auckland  • 2017-now",
+                    "subtitle": "Marketing coordinator, Admin & Graphic Designer  •  Auckland  •  March 2017 - November 2017",
                     "attributes": [
                         "Managed all commercial advertising for Auckland.",
                         "Designed content for and organised corperate events"
@@ -34,7 +32,7 @@
                 {
                     "title": "Smith & Smith Glass",
                     "link": "https://www.smithandsmith.co.nz/",                    
-                    "subtitle": "CSR  •  Auckland  • 2015-2017",
+                    "subtitle": "Customer Service Representative, Admin & Booking Specialist  •  Auckland  •  Febuary 2016 - March 2017",
                     "attributes": [
                         "Responsible for delivering consistent Customer Delight. This involved a thorough understanding a wide range of administrative and computer based system to identify products and schedule bookings across over 30 Smith and Smith branches nationwide. It also requires extensive knowledge of products and systems used by technicians in the field."
                     ]
@@ -42,19 +40,9 @@
                 {
                     "title": "Vinewood Motion Graphics",
                     "link": "https://vimeo.com/user431809",                    
-                    "subtitle": "Creative Artist  •  Auckland  • 2014-2015",
+                    "subtitle": "Freelance Creative Design Artist & Animator  •  Auckland  • October 2015 - Febuary 2016",
                     "attributes": [
                         "As a freelance creative artist working under director Phil Brough, I helped him out with anything extra he needed. There was a decent amount of 3D work (for anything from TV adverts to short films), but also some admin work (organising project workflow), and design work. Most important, however, was keeping satisfactory caffiene levels in the office - in which I was more than happy to oblige!"
-                    ]
-                },
-                {
-                    "title": "All About Plumbing",
-                    "link": "",                    
-                    "subtitle": "Customer Service Manager  •  Christchurch  • 2007-2008",
-                    "attributes": [
-                        "Customer service/account management.",
-                        "Staff Management and Job Scheduling. They were specialists in drain laying and gas-fitting as well as general plumbers, so keeping the guys organised and their job schedules full was sometimes a challenge.",
-                        "It was extremely busy, but very rewarding work."
                     ]
                 }
             ]
@@ -92,7 +80,15 @@
         "items": [
             {
                 "title": "Photoshop",
-                "percent": 90
+                "percent": 80
+            },
+            {
+                "title": "Indesign",
+                "percent": 75
+            },
+            {
+                "title": "Illustrator",
+                "percent": 60
             },
             {
                 "title": "After Effects",
@@ -113,36 +109,101 @@
             {
                 "title": "Mudbox",
                 "percent": 70
+            },
+            {
+                "title": "SharePoint",
+                "percent": 70
+            },
+            {
+                "title": "Sitecore",
+                "percent": 50
             }
         ]
     },
     "projects": [
         {
+            "title": "AECOM House (2017)",
+            "subtitle": "Asset Management Proposal",
+            "text": [
+                "In his example, we had only 3 pages maximum to convey a large amount of fairly dry information. Instead of laying it out in sequential blocks of text, I decided to use 2 of the pages in a spread to create a flow chart which would contain most of the relevant information."
+            ],
+            "images":[
+                { "url" : "https://imgur.com/rl78R1T.jpg", "alt": ""},
+                { "url" : "https://imgur.com/04vqEbv.jpg", "alt": ""}
+            ],
+            "vimeo": []
+        },
+        {
+            "title": "Motivational Quotes Posters",
+            "subtitle": "",
+            "text": [
+                "This is a series of CBRE staff’s favourite work quotes, to make into motivational posters, that would be hung up around the Auckland and Christchurch offices."
+            ],
+            "images":[
+                { "url" : "https://imgur.com/WWnMUlk.jpg", "alt": ""},
+                { "url" : "https://imgur.com/JSEam3Z.jpg", "alt": ""},
+                { "url" : "https://imgur.com/Hk2U1Mq.jpg", "alt": ""},
+                { "url" : "https://imgur.com/ts5j6U3.jpg", "alt": ""},
+                { "url" : "https://imgur.com/XzGyqew.jpg", "alt": ""}
+            ],
+            "vimeo": []
+        },
+        {
             "title": "Melbourne Cup Invitation",
             "subtitle": "Design & Concept",
             "text": [
-                ""
+                "These are invitations I designed for internal and external events at CBRE. The first is the 2017 CBRE Melbourne Cup,for which I presented 2 options for consideration. The second was an invitation for an internal event, Christchurch’s annual Drinks & Canapés for employees. I designed this around the style that was chosen for the Melbourne Cup Invite - a corporate, simple design that would emphasize the rough, thick texture of the card that it would be printed on."
             ],
-            "image": "https://i.imgur.com/CEjFhq6.png",
-            "alt": "alt text for image"
+            "images":[
+                { "url" : "https://imgur.com/CEjFhq6.jpg", "alt": ""},
+                { "url" : "https://imgur.com/RAs3zrL.jpg", "alt": ""},
+                { "url" : "https://imgur.com/oYSqQWu.jpg", "alt": ""},
+                { "url" : "https://imgur.com/XINoWXu.jpg", "alt": ""}
+            ],
+            "vimeo": []
+        },
+        {
+            "title": "Millenials: Separating fact from fiction (2017)",
+            "subtitle": "Major Real Estate Research Report",
+            "text": [
+                "In his example, I used strategically placed stock images, typography & infographics to convey research information, a lot of which was numbers and statistics. There were also many graphs required, and I tried to vary these in style to keep it interesting."
+            ],
+            "images":[
+                { "url" : "https://imgur.com/NpXx8df.jpg", "alt": ""},
+                { "url" : "https://imgur.com/hmON2TI.jpg", "alt": ""},
+                { "url" : "https://imgur.com/04vqEbv.jpg", "alt": ""},
+                { "url" : "https://imgur.com/Q8WjBzC.jpg", "alt": ""},
+                { "url" : "https://imgur.com/Dc5jkys.jpg", "alt": ""},
+                { "url" : "https://imgur.com/UJdzevc.jpg", "alt": ""}                   
+            ],
+            "vimeo": []
         },
         {
             "title": "First Blood",
             "subtitle": "Poster Concept Art",
             "text": [
-                ""
+                "As a creative project for myself, I made a poster to advertise myself and my skills, based on an idiom. The one I chose was “Drawing First Blood”."
             ],
-            "image": "https://i.imgur.com/VHiHhMc.png",
-            "alt": "alt text for image"
+            "images":[{ "url" : "https://imgur.com/9rQjRXX.jpg", "alt": ""}],
+            "vimeo": []
         },
         {
-            "title": "AECOM House",
-            "subtitle": "Research Project Designs",
+            "title": "CBRE Ceremony Event “Milestone Club” (2017)",
+            "subtitle": "",
             "text": [
-                ""
+                "Below is the progression of a series of marketing collateral I designed for an award giving event at CBRE called the “Milestone Club”. This celebrated the achievements of agents from all around NZ over the past year."
             ],
-            "image": "https://i.imgur.com/oeTR20J.png",
-            "alt": "alt text for image"
+            "images":[{ "url" : "https://imgur.com/hhPiUlm.jpg", "alt": ""}],
+            "vimeo": []
+        },
+        {
+            "title": "Showreel 2016 ",
+            "subtitle": "",
+            "text": [
+                "This is my showreel from a collection of works I've done from 2011-2016 while studying and after."
+            ],
+            "images":[{ "url" : "https://imgur.com/tNuBnP3.jpg", "alt": ""}],
+            "vimeo": ["168127098"]
         }
     ]
 }

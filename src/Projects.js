@@ -7,6 +7,7 @@ import {
 import content from './content.json';
 import Heading from './Heading';
 import Modal from 'react-modal';
+import Vimeo from './Vimeo';
 
 class Projects extends Component {
     constructor() {
@@ -48,7 +49,7 @@ class Projects extends Component {
                 <div className="d-flex justify-content-start flex-wrap row">
 
                     {content.projects.map((p, i) => <div key={`project-${i}`} onClick={e => this.open(e, i)} className="col-12 col-md-6 col-lg-4 pr-3 pb-3"><Card>
-                        <CardImg top src={p.image} alt={p.alt} />
+                        <CardImg top src={p.images[0].url} alt={p.images[0].alt} />
                         <CardBody>
                             <CardTitle>{p.title}</CardTitle>
                             <CardSubtitle className="App-portfolio--subtitle">{p.subtitle}</CardSubtitle>
@@ -70,7 +71,13 @@ class Projects extends Component {
                         <div className="d-flex flex-column">
                             <h1>{content.projects[this.state.itemOpen].title}</h1>
                             {content.projects[this.state.itemOpen].text.map((t, index) => <p key={`project-${this.state.itemOpen}-text-modal-${index}`}>{t}</p>)}
-                            <img className="w-100" src={content.projects[this.state.itemOpen].image} alt={content.projects[this.state.itemOpen].alt} />
+                            {content.projects[this.state.itemOpen].vimeo.map((v, index) => <Vimeo id={v} />)}
+                            {content.projects[this.state.itemOpen].images.map((i, index) => <img 
+                                key={`project-${this.state.itemOpen}-image-modal-${index}`}
+                                className="w-100" 
+                                src={i.url} 
+                                alt={i.alt} 
+                            />)}
                         </div>
 
                     </div>
