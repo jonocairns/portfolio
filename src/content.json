@@ -129,7 +129,7 @@
             ],
             "images":[
                 { "url" : "https://imgur.com/rl78R1T.jpg", "alt": ""},
-                { "url" : "https://imgur.com/04vqEbv.jpg", "alt": ""}
+                { "url" : "https://imgur.com/Dc5jkys.jpg", "alt": ""}
             ],
             "vimeo": []
         },
@@ -156,7 +156,7 @@
             ],
             "images":[
                 { "url" : "https://imgur.com/CEjFhq6.jpg", "alt": ""},
-                { "url" : "https://imgur.com/RAs3zrL.jpg", "alt": ""},
+                { "url" : "https://i.imgur.com/X6CjkTy.jpg", "alt": ""},
                 { "url" : "https://imgur.com/oYSqQWu.jpg", "alt": ""},
                 { "url" : "https://imgur.com/XINoWXu.jpg", "alt": ""}
             ],
@@ -171,10 +171,8 @@
             "images":[
                 { "url" : "https://imgur.com/NpXx8df.jpg", "alt": ""},
                 { "url" : "https://imgur.com/hmON2TI.jpg", "alt": ""},
-                { "url" : "https://imgur.com/04vqEbv.jpg", "alt": ""},
                 { "url" : "https://imgur.com/Q8WjBzC.jpg", "alt": ""},
-                { "url" : "https://imgur.com/Dc5jkys.jpg", "alt": ""},
-                { "url" : "https://imgur.com/UJdzevc.jpg", "alt": ""}                   
+                { "url" : "https://i.imgur.com/ebb7n2g.jpg", "alt": ""}            
             ],
             "vimeo": []
         },
@@ -195,6 +193,24 @@
             ],
             "images":[{ "url" : "https://imgur.com/hhPiUlm.jpg", "alt": ""}],
             "vimeo": []
+        },        
+        {
+            "title": "Ellie Earle Branding",
+            "subtitle": "",
+            "text": [
+                "This is a logo and brand I created to market myself and my skills as a designer. I wanted to create imagery out of typography for the logo itself, which portrayed a sense of creativity and innovative thinking."
+            ],
+            "images":[{ "url" : "https://i.imgur.com/m2lfiV6.jpg", "alt": ""}],
+            "vimeo": []
+        },
+        {
+            "title": "Spank Product Design",
+            "subtitle": "",
+            "text": [
+                "Spank is a fictional aphrodisiac drink which I created a concept and marketing campaign for as part of my final project at Nacoll. I also created a set of 4 ads for the product. You can view them below."
+            ],
+            "images":[{ "url" : "https://i.imgur.com/NAkQwaO.jpg", "alt": ""}],
+            "vimeo": ["144853918", "144854388", "144853147", "144853479"]
         },
         {
             "title": "Showreel 2016 ",

@@ -71,7 +71,7 @@ class Projects extends Component {
                         <div className="d-flex flex-column">
                             <h1>{content.projects[this.state.itemOpen].title}</h1>
                             {content.projects[this.state.itemOpen].text.map((t, index) => <p key={`project-${this.state.itemOpen}-text-modal-${index}`}>{t}</p>)}
-                            {content.projects[this.state.itemOpen].vimeo.map((v, index) => <Vimeo id={v} />)}
+                            {content.projects[this.state.itemOpen].vimeo.map((v, index) => <Vimeo key={`project-${this.state.itemOpen}-video-modal-${index}`} id={v} />)}
                             {content.projects[this.state.itemOpen].images.map((i, index) => <img 
                                 key={`project-${this.state.itemOpen}-image-modal-${index}`}
                                 className="w-100" 

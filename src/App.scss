@@ -8,14 +8,14 @@
 
 .App-section {
   &--title {
-    border-bottom: 3px solid #11ABB0;
+    border-bottom: 3px solid #b18f4b;
     padding-bottom: 6px;
     font-weight: 700;
   }
 }
 
 .header-font {
-  font-family: 'Sarina', cursive;
+  font-family: 'Raleway', sans-serif;
 }
 
 .App-portfolio {
@@ -25,4 +25,12 @@
     white-space: nowrap;
     overflow: hidden;
   }
+}
+
+.App-gold {
+  background-color: #b18f4b; 
+}
+
+a, a:hover, a:visited, a:active {
+  color: #b18f4b; 
 }

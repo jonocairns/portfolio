@@ -10,10 +10,8 @@ class Vimeo extends Component {
                     width="100%" 
                     title={`vimeo:${this.props.id}`}
                     height="360" 
-                    frameborder="0" 
-                    webkitallowfullscreen 
-                    mozallowfullscreen 
-                    allowfullscreen>
+                    frameBorder="0" 
+                    allowFullScreen>
                 </iframe>
             </div>
         );

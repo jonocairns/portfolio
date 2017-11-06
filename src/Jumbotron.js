@@ -10,7 +10,8 @@ class Jumbotron extends Component {
         return (
             <div className="App-bg d-flex justify-content-center align-items-center">
                 <div id="home">
-                    <h1 className="header-font">{content.title}</h1>
+                    {/* <h1 className="header-font">{content.title}</h1> */}
+                    <img src="https://i.imgur.com/k2FcSIs.jpg" className="App-jumbotron-hero-image" alt="Ellie Earle: Creative Design & Marketing" />
                     <ul className="App-bg--connect d-flex justify-content-center">
 
                         <li className="ml-2 p-2" role="button">

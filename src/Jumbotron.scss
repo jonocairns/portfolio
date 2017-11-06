@@ -1,5 +1,5 @@
 .App-bg {
-    background: url('./assets/bg2.jpg') top center;
+    background-color: white;
     min-height: 400px;
 
     h1 {
@@ -19,5 +19,20 @@
     .linkedin {
         width: 42px;
         height: 42px;
+    }
+}
+
+.App-jumbotron-hero-image {
+    max-width: 300px;
+    @media (min-width: 576px) { 
+        max-width: 500px;
+    }
+
+    @media (min-width: 768px) { 
+        max-width: 700px;
+    }
+
+    @media (min-width: 992px) { 
+        max-width: 1000px;
     }
 }
