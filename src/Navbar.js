@@ -35,7 +35,7 @@ export default class Example extends React.Component {
                 <Navbar color="white" light expand="md" fixed={`top`}>
                     {/* <NavbarBrand href="/">reactstrap</NavbarBrand> */}
                     <NavbarToggler onClick={this.toggle} role="button" className="click" />
-                    <Collapse isOpen={this.state.isOpen} navbar className="d-lg-flex justify-content-lg-center">
+                    <Collapse isOpen={this.state.isOpen} navbar className="d-lg-flex justify-content-md-center">
                         <Nav navbar>
                             <NavItem>
                                 <a className="nav-link" role="button" onClick={this.scrollToTop}>Home</a>
