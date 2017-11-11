@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import phone from './assets/phone.svg';
-import email from './assets/email.svg';
-import ln from './assets/ln.svg';
-import vimeo from './assets/vimeo.svg';
+import phone from './assets/CALL.svg';
+import email from './assets/MAIL.svg';
+import ln from './assets/LINKEDIN.svg';
+import vimeo from './assets/VIDEO.svg';
 import content from './content.json';
 
 class Jumbotron extends Component {
