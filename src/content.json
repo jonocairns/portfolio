@@ -3,7 +3,7 @@
     "about": {
         "title": "About Me",
         "paragraphs": [
-            "I’m a results-driven, passionate individual with an eye for creative design and visual storytelling. I have experience in corporate branded design (for a variety of platforms), but I’m also trained in 3D animation, post-production, Visual Effects, production and a variety of other creative fields. I also have a strong understanding of developer processes and am interested in learning more in that field."
+            "I’m a results-driven, passionate designer whose strength is in creative storytelling. I have experience in both corporate and creative design (both print & digital) and a strong background in marketing. As a bonus, I’m also trained in 3D animation, post-production, visual effects, production, and a variety of other creative fields. I also have a fair understanding of the software development industry and its processes. I enjoy a bit of anything creative, and am forever dabbling in new areas to expand my skill set."
         ]
     },
     "contact": {
@@ -122,19 +122,21 @@
     },
     "projects": [
         {
-            "title": "AECOM House (2017)",
-            "subtitle": "Asset Management Proposal",
+            "title": "CBRE Event Invitations, (2017)",
+            "subtitle": "Design & Concept",
             "text": [
-                "In his example, we had only 3 pages maximum to convey a large amount of fairly dry information. Instead of laying it out in sequential blocks of text, I decided to use 2 of the pages in a spread to create a flow chart which would contain most of the relevant information."
+                "These are invitations I designed for internal and external events at CBRE. The first is the 2017 CBRE Melbourne Cup,for which I presented 2 options for consideration. The second was an invitation for an internal event, Christchurch’s annual Drinks & Canapés for employees. I designed this around the style that was chosen for the Melbourne Cup Invite - a corporate, simple design that would emphasize the rough, thick texture of the card that it would be printed on."
             ],
             "images":[
-                { "url" : "https://imgur.com/rl78R1T.jpg", "alt": ""},
-                { "url" : "https://imgur.com/Dc5jkys.jpg", "alt": ""}
+                { "url" : "https://i.imgur.com/Phs4p67.jpg", "alt": ""},
+                { "url" : "https://i.imgur.com/X6CjkTy.jpg", "alt": ""},
+                { "url" : "https://i.imgur.com/rBq5JON.jpg", "alt": ""},
+                { "url" : "https://imgur.com/XINoWXu.jpg", "alt": ""}
             ],
             "vimeo": []
         },
         {
-            "title": "Motivational Quotes Posters",
+            "title": "Motivational Quotes Posters (2017)",
             "subtitle": "",
             "text": [
                 "This is a series of CBRE staff’s favourite work quotes, to make into motivational posters, that would be hung up around the Auckland and Christchurch offices."
@@ -149,17 +151,35 @@
             "vimeo": []
         },
         {
-            "title": "Melbourne Cup Invitation",
-            "subtitle": "Design & Concept",
+            "title": "DO's and DON'T's Poster CBRE (2017)",
+            "subtitle": "",
             "text": [
-                "These are invitations I designed for internal and external events at CBRE. The first is the 2017 CBRE Melbourne Cup,for which I presented 2 options for consideration. The second was an invitation for an internal event, Christchurch’s annual Drinks & Canapés for employees. I designed this around the style that was chosen for the Melbourne Cup Invite - a corporate, simple design that would emphasize the rough, thick texture of the card that it would be printed on."
+                "This was a poster commissioned by the Christchurch office of CBRE to create a words-of-wisdom style piece to impart some selling advice for the agents."
             ],
             "images":[
-                { "url" : "https://imgur.com/CEjFhq6.jpg", "alt": ""},
-                { "url" : "https://i.imgur.com/X6CjkTy.jpg", "alt": ""},
-                { "url" : "https://imgur.com/oYSqQWu.jpg", "alt": ""},
-                { "url" : "https://imgur.com/XINoWXu.jpg", "alt": ""}
+                { "url" : "https://i.imgur.com/MCgNbwA.jpg", "alt": ""}
             ],
+            "vimeo": []
+        },
+        {
+            "title": "AECOM House (2017)",
+            "subtitle": "Asset Management Proposal",
+            "text": [
+                "In his example, we had only 3 pages maximum to convey a large amount of fairly dry information. Instead of laying it out in sequential blocks of text, I decided to use 2 of the pages in a spread to create a flow chart which would contain most of the relevant information."
+            ],
+            "images":[
+                { "url" : "https://imgur.com/rl78R1T.jpg", "alt": ""},
+                { "url" : "https://imgur.com/Dc5jkys.jpg", "alt": ""}
+            ],
+            "vimeo": []
+        },
+        {
+            "title": "CBRE Ceremony Event “Milestone Club” (2017)",
+            "subtitle": "",
+            "text": [
+                "Below is the progression of a series of marketing collateral I designed for an award giving event at CBRE called the “Milestone Club”. This celebrated the achievements of agents from all around NZ over the past year."
+            ],
+            "images":[{ "url" : "https://imgur.com/hhPiUlm.jpg", "alt": ""}],
             "vimeo": []
         },
         {
@@ -169,7 +189,7 @@
                 "In his example, I used strategically placed stock images, typography & infographics to convey research information, a lot of which was numbers and statistics. There were also many graphs required, and I tried to vary these in style to keep it interesting."
             ],
             "images":[
-                { "url" : "https://imgur.com/NpXx8df.jpg", "alt": ""},
+                { "url" : "https://i.imgur.com/l5aMzWM.jpg", "alt": ""},
                 { "url" : "https://imgur.com/hmON2TI.jpg", "alt": ""},
                 { "url" : "https://imgur.com/Q8WjBzC.jpg", "alt": ""},
                 { "url" : "https://i.imgur.com/ebb7n2g.jpg", "alt": ""}            
@@ -182,25 +202,7 @@
             "text": [
                 "As a creative project for myself, I made a poster to advertise myself and my skills, based on an idiom. The one I chose was “Drawing First Blood”."
             ],
-            "images":[{ "url" : "https://i.imgur.com/6AzjW9B.jpg", "alt": ""}],
-            "vimeo": []
-        },
-        {
-            "title": "CBRE Ceremony Event “Milestone Club” (2017)",
-            "subtitle": "",
-            "text": [
-                "Below is the progression of a series of marketing collateral I designed for an award giving event at CBRE called the “Milestone Club”. This celebrated the achievements of agents from all around NZ over the past year."
-            ],
-            "images":[{ "url" : "https://imgur.com/hhPiUlm.jpg", "alt": ""}],
-            "vimeo": []
-        },        
-        {
-            "title": "Ellie Earle Branding",
-            "subtitle": "",
-            "text": [
-                "This is a logo and brand I created to market myself and my skills as a designer. I wanted to create imagery out of typography for the logo itself, which portrayed a sense of creativity and innovative thinking."
-            ],
-            "images":[{ "url" : "https://i.imgur.com/m2lfiV6.jpg", "alt": ""}],
+            "images":[{ "url" : "https://i.imgur.com/DSItulR.jpg", "alt": ""}],
             "vimeo": []
         },
         {
@@ -220,6 +222,21 @@
             ],
             "images":[{ "url" : "https://imgur.com/tNuBnP3.jpg", "alt": ""}],
             "vimeo": ["168127098"]
+        },       
+        {
+            "title": "Ellie Earle Branding",
+            "subtitle": "",
+            "text": [
+                "This is a logo and brand I created to market myself and my skills as a designer. I wanted to create imagery out of typography for the logo itself, which portrayed a sense of creativity and innovative thinking."
+            ],
+            "images":[
+                { "url" : "https://i.imgur.com/Pi5yeb3.jpg", "alt": ""},
+                { "url" : "https://i.imgur.com/O0AsafN.jpg", "alt": ""},
+                { "url" : "https://i.imgur.com/m2lfiV6.jpg", "alt": ""}
+                
+            ],
+            "vimeo": []
         }
+        
     ]
 }
