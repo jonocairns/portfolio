@@ -8,7 +8,7 @@ import content from './content.json';
 class Jumbotron extends Component {
     render() {
         return (
-            <div className="App-bg d-flex justify-content-center align-items-center">
+            <div className="App-bg d-flex justify-content-center align-items-center mt-5">
                 <div id="home">
                     {/* <h1 className="header-font">{content.title}</h1> */}
                     <img src="https://i.imgur.com/z7t8lWG.jpg" className="App-jumbotron-hero-image" alt="Ellie Earle: Creative Design & Marketing" />

@@ -9,6 +9,13 @@
     background-color: white;
 }
 
+.ReactModal__Content {
+    top: 60px !important;
+    left: 20px !important;
+    right: 20px !important;
+    bottom: 20px !important;
+}
+
 .App-modal-border {
     border: 1px solid rgb(204, 204, 204);
 }

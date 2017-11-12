@@ -64,7 +64,7 @@ class Projects extends Component {
                     shouldCloseOnOverlayClick={true}
                     onRequestClose={this.close}
                 >
-                    <div className="container App-modal-border p-5">
+                    <div className="container App-modal-border p-3">
                         <button onClick={this.close} type="button" className="close click p-2 App-text" aria-label="Close">
                             <span aria-hidden="true">&times;</span>
                         </button>
