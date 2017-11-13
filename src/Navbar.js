@@ -41,29 +41,29 @@ export default class Example extends React.Component {
                                 <a className="nav-link" role="button" onClick={this.scrollToTop}>Home</a>
                             </NavItem>
                             <NavItem>
-                                <Link className="nav-link" role="button" onClick={this.toggle} smooth={true} duration={500} to="about" offset={-56} >
+                                <Link className="nav-link" role="button" onClick={this.toggle} smooth={true} duration={500} to="about" offset={-100} >
                                     About
                                 </Link>
                             </NavItem>
                             {content.sections.map((s, i) => <NavItem key={`nav-section-${i}`}>
-                                <Link className="nav-link text-capitalize" role="button" onClick={this.toggle} smooth={true} duration={500} to={s.title} offset={-56}>
+                                <Link className="nav-link text-capitalize" role="button" onClick={this.toggle} smooth={true} duration={500} to={s.title} offset={-100}>
                                     {s.title}
                                 </Link>
                             </NavItem>)}
                             <NavItem>
-                                <Link className="nav-link" role="button" onClick={this.toggle} smooth={true} duration={500} to="skills" offset={-56}>
+                                <Link className="nav-link" role="button" onClick={this.toggle} smooth={true} duration={500} to="skills" offset={-100}>
                                     Skills
                                 </Link>
 
                             </NavItem>
                             <NavItem>
-                                <Link className="nav-link" role="button" onClick={this.toggle} smooth={true} duration={500} to="portfolio" offset={-56}>
+                                <Link className="nav-link" role="button" onClick={this.toggle} smooth={true} duration={500} to="portfolio" offset={-100}>
                                     Portfolio
                                 </Link>
 
                             </NavItem>
                             <NavItem>
-                                <Link className="nav-link" role="button" onClick={this.toggle} smooth={true} duration={500} to="contact" offset={-56}>
+                                <Link className="nav-link" role="button" onClick={this.toggle} smooth={true} duration={500} to="contact" offset={-100}>
                                     Contact
                                 </Link>
 
