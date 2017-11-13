@@ -8,13 +8,16 @@
     }
 
     h1 {
-        color: rgb(0, 0, 0);
+        color: rgb(255, 255, 255);
     }
 
     &--connect {
+        width: 100%;
         list-style: none;
+        background-color: rgb(255, 255, 255);
         padding: 0;
         margin: 0;
+        
 
         li { 
             float:left;
