@@ -3,7 +3,7 @@
     "about": {
         "title": "About Me",
         "paragraphs": [
-            "I’m a results-driven, passionate designer whose strength is in creative storytelling. I have experience in both corporate and creative design (both print & digital) and a strong background in marketing. As a bonus, I’m also trained in 3D animation, post-production, visual effects, production, and a variety of other creative fields. I also have a fair understanding of the software development industry and its processes. I enjoy a bit of anything creative, and am forever dabbling in new areas to expand my skill set."
+            "I’m a results-driven, passionate designer whose strength is in creative storytelling. I have experience in both corporate and creative design (both print & digital) and a strong background in marketing. As a bonus, I’m also trained in 3D animation, post-production, visual effects, production, and a variety of other creative fields. I also have a fair understanding of the software development industry and its processes. I enjoy a bit of anything creative, but eventually I want to end up either designing my heart out in a creative/advertising agency, or working in a 3D/Post production house as a character animator."
         ]
     },
     "contact": {
@@ -84,7 +84,7 @@
             },
             {
                 "title": "Indesign",
-                "percent": 75
+                "percent": 85
             },
             {
                 "title": "Illustrator",
@@ -92,31 +92,31 @@
             },
             {
                 "title": "After Effects",
-                "percent": 95
+                "percent": 80
             },
             {
                 "title": "Microsoft Office",
                 "percent": 91
             },
             {
-                "title": "Maya",
-                "percent": 92
+                "title": "Autodesk Maya",
+                "percent": 90
             },
             {
                 "title": "Premier Pro",
-                "percent": 80
+                "percent": 85
             },
             {
-                "title": "Mudbox",
-                "percent": 70
+                "title": "Autodesk Mudbox",
+                "percent": 75
             },
             {
                 "title": "SharePoint",
-                "percent": 70
+                "percent": 75
             },
             {
                 "title": "Sitecore",
-                "percent": 50
+                "percent": 65
             }
         ]
     },
@@ -128,7 +128,6 @@
                 "These are invitations I designed for internal and external events at CBRE. The first is the 2017 CBRE Melbourne Cup,for which I presented 2 options for consideration. The second was an invitation for an internal event, Christchurch’s annual Drinks & Canapés for employees. I designed this around the style that was chosen for the Melbourne Cup Invite - a corporate, simple design that would emphasize the rough, thick texture of the card that it would be printed on."
             ],
             "images":[
-                { "url" : "https://i.imgur.com/Phs4p67.jpg", "alt": ""},
                 { "url" : "https://i.imgur.com/X6CjkTy.jpg", "alt": ""},
                 { "url" : "https://i.imgur.com/rBq5JON.jpg", "alt": ""},
                 { "url" : "https://imgur.com/XINoWXu.jpg", "alt": ""}
@@ -137,16 +136,13 @@
         },
         {
             "title": "Motivational Quotes Posters (2017)",
-            "subtitle": "",
+            "subtitle": "Branded Typography",
             "text": [
                 "This is a series of CBRE staff’s favourite work quotes, to make into motivational posters, that would be hung up around the Auckland and Christchurch offices."
             ],
             "images":[
                 { "url" : "https://imgur.com/WWnMUlk.jpg", "alt": ""},
-                { "url" : "https://imgur.com/JSEam3Z.jpg", "alt": ""},
-                { "url" : "https://imgur.com/Hk2U1Mq.jpg", "alt": ""},
-                { "url" : "https://imgur.com/ts5j6U3.jpg", "alt": ""},
-                { "url" : "https://imgur.com/XzGyqew.jpg", "alt": ""}
+                { "url" : "https://i.imgur.com/iSvMdPQ.jpg", "alt": ""}
             ],
             "vimeo": []
         },
@@ -162,20 +158,19 @@
             "vimeo": []
         },
         {
-            "title": "AECOM House (2017)",
-            "subtitle": "Asset Management Proposal",
+            "title": "AECOM House Asset Management Proposal (2017)",
+            "subtitle": "Corporate branded document design",
             "text": [
                 "In his example, we had only 3 pages maximum to convey a large amount of fairly dry information. Instead of laying it out in sequential blocks of text, I decided to use 2 of the pages in a spread to create a flow chart which would contain most of the relevant information."
             ],
             "images":[
-                { "url" : "https://imgur.com/rl78R1T.jpg", "alt": ""},
                 { "url" : "https://imgur.com/Dc5jkys.jpg", "alt": ""}
             ],
             "vimeo": []
         },
         {
             "title": "CBRE Ceremony Event “Milestone Club” (2017)",
-            "subtitle": "",
+            "subtitle": "Corporate Event Marketing Collateral",
             "text": [
                 "Below is the progression of a series of marketing collateral I designed for an award giving event at CBRE called the “Milestone Club”. This celebrated the achievements of agents from all around NZ over the past year."
             ],
@@ -184,7 +179,7 @@
         },
         {
             "title": "Millenials: Separating fact from fiction (2017)",
-            "subtitle": "Major Real Estate Research Report",
+            "subtitle": "Major Real-Estate Research Report Design",
             "text": [
                 "In his example, I used strategically placed stock images, typography & infographics to convey research information, a lot of which was numbers and statistics. There were also many graphs required, and I tried to vary these in style to keep it interesting."
             ],
@@ -207,7 +202,7 @@
         },
         {
             "title": "Spank Product Design",
-            "subtitle": "",
+            "subtitle": "Product concept, design, & marketing with advertsising campaign",
             "text": [
                 "Spank is a fictional aphrodisiac drink which I created a concept and marketing campaign for as part of my final project at Nacoll. I also created a set of 4 ads for the product. You can view them below."
             ],
@@ -215,10 +210,10 @@
             "vimeo": ["144853918", "144854388", "144853147", "144853479"]
         },
         {
-            "title": "Showreel 2016 ",
-            "subtitle": "",
+            "title": "Showreel 2016",
+            "subtitle": "Production, Post-Production and 3D Design/Animation work",
             "text": [
-                "This is my showreel from a collection of works I've done from 2011-2016 while studying and after."
+                "This is my showreel from a collection of works I've done from 2011-2016 while studying and after. Specifically it showcases my ability as a creature and character keyframe animator from concept/previs stage right through to completion"
             ],
             "images":[{ "url" : "https://imgur.com/tNuBnP3.jpg", "alt": ""}],
             "vimeo": ["168127098"]
@@ -230,9 +225,8 @@
                 "This is a logo and brand I created to market myself and my skills as a designer. I wanted to create imagery out of typography for the logo itself, which portrayed a sense of creativity and innovative thinking."
             ],
             "images":[
-                { "url" : "https://i.imgur.com/Pi5yeb3.jpg", "alt": ""},
-                { "url" : "https://i.imgur.com/O0AsafN.jpg", "alt": ""},
-                { "url" : "https://i.imgur.com/m2lfiV6.jpg", "alt": ""}
+                { "url" : "https://i.imgur.com/7j9fDlh.jpg", "alt": ""},
+                { "url" : "https://i.imgur.com/jICIaCQ.jpg", "alt": ""}
                 
             ],
             "vimeo": []
