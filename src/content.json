@@ -8,7 +8,7 @@
     },
     "contact": {
         "title": "Contact Me",
-        "location": "Location: Auckland, New Zealand",
+        "location": "Location: Auckland 1050, New Zealand",
         "phone": "(+64) 21 866 629",
         "email": "elizabeth.h.earle@gmail.com",
         "social": {
@@ -18,12 +18,12 @@
     },
     "sections": [
         {
-            "title": "work",
+            "title": "previous work experience",
             "items": [
                 {
                     "title": "CBRE",
                     "link": "https://www.cbre.co.nz/",
-                    "subtitle": "Marketing coordinator, Admin & Graphic Designer  •  Auckland  •  March 2017 - November 2017",
+                    "subtitle": "Marketing coordinator, Graphic Designer & Admin •  Auckland  •  March 2017 - November 2017",
                     "attributes": [
                         "Maintenece and some design of branded templates",
                         "Coordination of Individual Marketing Projects",
@@ -37,7 +37,7 @@
                 {
                     "title": "Smith & Smith Glass",
                     "link": "https://www.smithandsmith.co.nz/",                    
-                    "subtitle": "Customer Service Representative, Admin & Booking Specialist  •  Auckland  •  Febuary 2016 - March 2017",
+                    "subtitle": "CSR, Admin & Booking Specialist  •  Auckland  •  Febuary 2016 - March 2017",
                     "attributes": [
                         "Responsible for delivering consistent Customer Delight from first contact to booking confirmation",
                         "Developed a thorough understanding a wide range of administrative and computer based systems",
@@ -49,7 +49,7 @@
                 {
                     "title": "Vinewood Motion Graphics",
                     "link": "https://vimeo.com/user431809",                    
-                    "subtitle": "Freelance Creative Design Artist & Animator  •  Auckland  • October 2015 - Febuary 2016",
+                    "subtitle": "Freelance Creative Artist & Animator  •  Auckland  • October 2015 - Febuary 2016",
                     "attributes": [
                         "Worked as a freelance creative artist under creative Phil Brough",
                         "Helped out with several time-sensitive, deadline driven projects under NZME including an advertisement for AMI and several episodes of a TV series 'Cul-De-Sac'",
@@ -78,7 +78,7 @@
                 },
                 {
                     "title": "Diploma of Film & Television Production",
-                    "subtitle": "New Zealand Boradcasting School  • January 2006 - November 2007",
+                    "subtitle": "New Zealand Broadcasting School  • January 2006 - November 2007",
                     "attributes": []
                 }
             ]
