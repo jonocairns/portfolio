@@ -3,11 +3,13 @@ import './App.scss';
 import Navbar from './Navbar';
 import Jumbotron from './Jumbotron';
 import About from './About';
-import Contact from './Contact';
 import Section from './Section';
 import Skills from './Skills';
 import Projects from './Projects';
 import content from './content.json';
+import Sidenav from './Sidenav';
+import Contact from './Contact';
+
 
 class App extends Component {
   render() {
@@ -17,11 +19,17 @@ class App extends Component {
         <Navbar />
         <Jumbotron />
         <div className="container">
-          <About />
-          <Contact />
-          {content.sections.map((s, i) => <Section key={`section-${i}`} title={s.title} items={s.items} />)}
-          <Skills />
-          <Projects />
+          <div className="row">
+          <div className="col-12 col-lg-8">
+            <About />
+            <Contact className="d-block d-lg-none" />
+            {content.sections.map((s, i) => <Section key={`section-${i}`} title={s.title} items={s.items} />)}
+            <Skills />
+            <Projects />
+          </div>
+            <Sidenav />
+          </div>
+
         </div>
 
       </div>

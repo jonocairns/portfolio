@@ -4,6 +4,7 @@ import Scroll from 'react-scroll';
 import content from './content.json';
 var Link = Scroll.Link;
 var scroll = Scroll.animateScroll;
+const offset = -100;
 
 export default class Example extends React.Component {
     constructor(props) {
@@ -32,41 +33,31 @@ export default class Example extends React.Component {
     render() {
         return (
             <div>
-                <Navbar className="bg-black" color="black" dark expand="md" fixed={`top`}>
+                <Navbar className="bg-white" color="white" expand="md" fixed={`top`}>
                     {/* <NavbarBrand href="/">reactstrap</NavbarBrand> */}
                     <NavbarToggler onClick={this.toggle} role="button" className="click" />
                     <Collapse isOpen={this.state.isOpen} navbar className="d-lg-flex justify-content-md-center">
                         <Nav navbar>
                             <NavItem>
-                                <a className="nav-link" role="button" onClick={this.scrollToTop}>Home</a>
-                            </NavItem>
-                            <NavItem>
-                                <Link className="nav-link" role="button" onClick={this.toggle} smooth={true} duration={500} to="about" offset={-100} >
+                                <Link className="nav-link" role="button" onClick={this.toggle} smooth={true} duration={500} to="about" offset={offset} >
                                     About
                                 </Link>
                             </NavItem>
                             {content.sections.map((s, i) => <NavItem key={`nav-section-${i}`}>
-                                <Link className="nav-link text-capitalize" role="button" onClick={this.toggle} smooth={true} duration={500} to={s.title} offset={-100}>
+                                <Link className="nav-link text-capitalize" role="button" onClick={this.toggle} smooth={true} duration={500} to={s.title} offset={offset}>
                                     {s.title}
                                 </Link>
                             </NavItem>)}
                             <NavItem>
-                                <Link className="nav-link" role="button" onClick={this.toggle} smooth={true} duration={500} to="skills" offset={-100}>
+                                <Link className="nav-link" role="button" onClick={this.toggle} smooth={true} duration={500} to="skills" offset={offset}>
                                     Skills
                                 </Link>
 
                             </NavItem>
                             <NavItem>
-                                <Link className="nav-link" role="button" onClick={this.toggle} smooth={true} duration={500} to="portfolio" offset={-100}>
+                                <Link className="nav-link" role="button" onClick={this.toggle} smooth={true} duration={500} to="portfolio" offset={offset}>
                                     Portfolio
                                 </Link>
-
-                            </NavItem>
-                            <NavItem>
-                                <Link className="nav-link" role="button" onClick={this.toggle} smooth={true} duration={500} to="contact" offset={-100}>
-                                    Contact
-                                </Link>
-
                             </NavItem>
                         </Nav>
                     </Collapse>
