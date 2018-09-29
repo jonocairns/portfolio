@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import phone from './assets/CALL.svg';
 import email from './assets/MAIL.svg';
 import ln from './assets/LINKEDIN.svg';
-import vimeo from './assets/VIDEO.svg';
 import content from './content.json';
 import Scroll from 'react-scroll';
 var scroll = Scroll.animateScroll;
@@ -33,7 +32,7 @@ class Sidenav extends Component {
                                 smooth: true
                             });
                         }}>
-                        <button type="button" className="btn btn-dark">Back to Top</button>
+                        {/* <button type="button" className="btn btn-dark">Back to Top</button> */}
                             
                         </li>
                     </ul>}

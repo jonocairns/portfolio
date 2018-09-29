@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import './App.css';
 import content from './content.json';
 import Heading from './Heading';
-import { Progress } from 'reactstrap';
 
 class Skills extends Component {
   render() {
@@ -13,10 +12,12 @@ class Skills extends Component {
           {content.skills.paragraphs.map((p, i) => 
               <p key={`skills-p-${i}`}>{p}</p>
           )}
-          {content.skills.items.map((s, i) => <div key={`skills-item-${i}`} className="pt-3 pb-3">
-                <div className="text-uppercase">{s.title}</div>
-              <Progress bar className="App-gold" value={s.percent}></Progress>
-              </div>)}
+          <div className="d-flex flex-wrap justify-content-start">
+            {content.skills.items.map((s, i) => <div key={`skills-item-${i}`} className="pt-3 pb-3">
+            <div style={{width: '10rem'}} className="text-uppercase">{s.title}</div>
+            </div>)}
+          </div>
+          
       </div>
     );
   }
