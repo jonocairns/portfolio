@@ -50,7 +50,7 @@ export default class Example extends React.Component {
                             </NavItem>)}
                             <NavItem>
                                 <Link className="nav-link" role="button" onClick={this.toggle} smooth={true} duration={500} to="skills" offset={offset}>
-                                    Skills
+                                    Software
                                 </Link>
 
                             </NavItem>
