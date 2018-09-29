@@ -12,7 +12,7 @@ class Section extends Component {
                 {this.props.items.map((item, index) =>
                     <div key={`item-${index}`} className="mb-4">
                         {item.link ? 
-                        <a href={item.link}><h5>{item.title}</h5></a> : 
+                        <a href={item.link}><h6 className="text-uppercase font-weight-bold">{item.title}</h6></a> : 
                         <h5>{item.title}</h5>}
                         
                         <p className="App-text">{item.subtitle}</p>

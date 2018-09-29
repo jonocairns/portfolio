@@ -1,9 +1,7 @@
 import React, { Component } from 'react';
-import phone from './assets/CALL.svg';
-import email from './assets/MAIL.svg';
-import ln from './assets/LINKEDIN.svg';
 import content from './content.json';
 import Scroll from 'react-scroll';
+import Heading from './Heading'
 var scroll = Scroll.animateScroll;
 
 class Sidenav extends Component {
@@ -13,29 +11,36 @@ class Sidenav extends Component {
             <div className="d-none d-lg-block col-4">
                 <div className="sticky-top" style={{ top: '60px' }}>
 
-                <h6 className="pb-0 pt-3 mt-3" id="about"><span className="App-section--title text-uppercase">Contact Me</span></h6>
-                    {<ul className="App-bg--connect mt-4 d-flex flex-column pl-2">
+                    <div className="bg-light p-4">
+                        <Heading title={`Contact Me`} className="pt-0 text-lowercase"/>
+                        <h6 className="pb-0" id="about">
+                            <span className="App-section--title text-uppercase"></span>
+                        </h6>
+                        {<ul className="App-bg--connect mt-4 d-flex flex-column font-weight-bold">
 
-                        <li className="p-1" role="button">
-                            <a href={`mailto:${content.contact.email}`}><img src={email} alt="email" /></a> {content.contact.email}
-                        </li>
-                        <li className="p-1" role="button">
-                            <a href={content.contact.social.linkedIn}><img src={ln} alt="linkedin" className="linkedin" /></a> ellieearleonlinkedin
-                        </li>
-                        <li className="p-1" role="button">
-                            <a target="_blank" href={`tel:${content.contact.phone}`}><img src={phone} alt="phone" /></a> {content.contact.phone}
-                        </li>
-                        <li className="p-1 " role="button" onClick={e => {
-                            e.preventDefault();
-                            scroll.scrollToTop({
-                                duration: 500,
-                                smooth: true
-                            });
-                        }}>
-                        {/* <button type="button" className="btn btn-dark">Back to Top</button> */}
-                            
-                        </li>
-                    </ul>}
+                            <li className="p-2" role="button">
+                                <a href={`mailto:${content.contact.email}`} >{content.contact.email}</a>
+                            </li>
+                            <li className="p-2" role="button">
+                                <a href={content.contact.social.linkedIn}>ellieearleonlinkedin</a>
+                            </li>
+                            <li className="p-2" role="button">
+                                <a target="_blank" href={`tel:${content.contact.phone}`} >{content.contact.phone}</a>
+                            </li>
+                            <li className="p-2 " role="button" onClick={e => {
+                                e.preventDefault();
+                                scroll.scrollToTop({
+                                    duration: 500,
+                                    smooth: true
+                                });
+                            }}>
+                                <a href="#">back to top</a>
+
+
+                            </li>
+                        </ul>}
+                    </div>
+
 
                 </div>
             </div>

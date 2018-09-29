@@ -8,13 +8,14 @@ class Skills extends Component {
 
     return (
       <div>
-          <Heading title={`skills`} anchor={"skills"}/>
+          <Heading title={`Software Proficiency`} anchor={"skills"}/>
           {content.skills.paragraphs.map((p, i) => 
               <p key={`skills-p-${i}`}>{p}</p>
           )}
-          <div className="d-flex flex-wrap justify-content-start">
+          <div className="d-flex flex-wrap justify-content-center">
             {content.skills.items.map((s, i) => <div key={`skills-item-${i}`} className="pt-3 pb-3">
-            <div style={{width: '10rem'}} className="text-uppercase">{s.title}</div>
+            <div style={{width: '10rem'}} className="text-uppercase d-inline">{s.title}</div>
+            {i !== (content.skills.items.length - 1) && <span className="mx-3" style={{color: '#6b9ad1'}}>•</span>}
             </div>)}
           </div>
           

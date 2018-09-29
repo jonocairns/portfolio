@@ -42,10 +42,11 @@ class Projects extends Component {
                 overflow: 'scroll'
             }
         };
+        const modalStyles = {overlay: {zIndex: 9999}};
 
         return (
             <div className="mt-4">
-                <Heading title={`portfolio`} anchor={'portfolio'} />
+                <Heading title={`Portfolio of Work`} anchor={'portfolio'} />
                 <div className="d-flex justify-content-start flex-wrap row">
 
                     {content.projects.map((p, i) => <div key={`project-${i}`} onClick={e => this.open(e, i)} className="col-12 col-md-6 col-lg-4 pr-3 pb-3"><Card>
@@ -63,6 +64,7 @@ class Projects extends Component {
                     customStyles={customStyles}
                     shouldCloseOnOverlayClick={true}
                     onRequestClose={this.close}
+                    style={modalStyles}
                 >
                     <div className="container App-modal-border p-3">
                         <button onClick={this.close} type="button" className="close click p-2 App-text" aria-label="Close">

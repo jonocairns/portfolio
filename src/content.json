@@ -18,12 +18,23 @@
     },
     "sections": [
         {
-            "title": "previous work experience",
+            "title": "Previous work experience",
             "items": [
+                {
+                    "title": "South Sea Cruises",
+                    "link": "https://ssc.com.fj/",
+                    "subtitle": "Graphic Designer for NZ and Fiji • January 2018 - Present",
+                    "attributes": [
+                        "Designing assets for everything from printed marketing collateral to online assets and magazine advertisements for a range of brands including: South Sea Cruises, Day Cruises, Blue Lagoon Cruises, Awesome Adventures Fiji, Malamala Beach Club, Yasawa Islands Holidays, Vinaka Fiji Volunteering, Occasional work for other partner brands",
+                        "Co-ordinating and providing finished artwork to various print companies to their print specifications",
+                        "Delivering finished artwork in a range of formats to the specifications of the particular project",
+                        "Setting up functional design workflows to streamline the process from brief to delivery"
+                    ]
+                },
                 {
                     "title": "CBRE",
                     "link": "https://www.cbre.co.nz/",
-                    "subtitle": "Marketing coordinator, Graphic Designer & Admin •  Auckland  •  March 2017 - November 2017",
+                    "subtitle": "Marketing coordinator, Graphic Designer & Admin • March 2017 - November 2017",
                     "attributes": [
                         "Maintenece and some design of branded templates",
                         "Coordination of Individual Marketing Projects",
@@ -37,7 +48,7 @@
                 {
                     "title": "Smith & Smith Glass",
                     "link": "https://www.smithandsmith.co.nz/",                    
-                    "subtitle": "CSR, Admin & Booking Specialist  •  Auckland  •  Febuary 2016 - March 2017",
+                    "subtitle": "CSR, Admin & Booking Specialist • Febuary 2016 - March 2017",
                     "attributes": [
                         "Responsible for delivering consistent Customer Delight from first contact to booking confirmation",
                         "Developed a thorough understanding a wide range of administrative and computer based systems",
@@ -49,7 +60,7 @@
                 {
                     "title": "Vinewood Motion Graphics",
                     "link": "https://vimeo.com/user431809",                    
-                    "subtitle": "Freelance Creative Artist & Animator  •  Auckland  • October 2015 - Febuary 2016",
+                    "subtitle": "Freelance Creative Artist & Animator • October 2015 - Febuary 2016",
                     "attributes": [
                         "Worked as a freelance creative artist under creative Phil Brough",
                         "Helped out with several time-sensitive, deadline driven projects under NZME including an advertisement for AMI and several episodes of a TV series 'Cul-De-Sac'",
@@ -59,26 +70,26 @@
             ]
         },
         {
-            "title": "education",
+            "title": "Education & Qualifications",
             "items": [
                 {
                     "title": "Bachelor of Art & Design",
-                    "subtitle": "Media Design School  • February 2011 - November 2014",
+                    "subtitle": "Media Design School • February 2011 - November 2014",
                     "attributes": []
                 },
                 {
                     "title": "Diploma of Video Post Production - Advanced",
-                    "subtitle": "Natcoll Design Technology  • June 2009 - April 2010",
+                    "subtitle": "Natcoll Design Technology • June 2009 - April 2010",
                     "attributes": []
                 },
                 {
                     "title": "Diploma of Video Post Production",
-                    "subtitle": "Natcoll Design Technology  • January 2008 - November 2008",
+                    "subtitle": "Natcoll Design Technology • January 2008 - November 2008",
                     "attributes": []
                 },
                 {
                     "title": "Diploma of Film & Television Production",
-                    "subtitle": "New Zealand Broadcasting School  • January 2006 - November 2007",
+                    "subtitle": "New Zealand Broadcasting School • January 2006 - November 2007",
                     "attributes": []
                 }
             ]
