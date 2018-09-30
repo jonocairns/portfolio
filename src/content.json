@@ -144,6 +144,43 @@
     },
     "projects": [
         {
+            "title": "Ellie Earle Branding",
+            "subtitle": "",
+            "text": [
+                "This is a logo and brand I created to market myself and my skills as a designer. All the logos and icons are creacted from typography. As well as a logo, title & icons, I also created business cards & letterheads."
+            ],
+            "images":[
+                { "url" : "https://imgur.com/2RPFtbO.jpg", "alt": ""},
+                { "url" : "https://imgur.com/XkEJKTS.jpg", "alt": ""}
+                
+            ],
+            "vimeo": []
+        },
+        {
+            "title": "South Sea Cruises, (2018)",
+            "subtitle": "Printed Collateral",
+            "text": [
+                "Printed collateral for various brands"
+            ],
+            "images":[
+                { "url" : "https://imgur.com/O8O1vOc.jpg", "alt": ""},
+                { "url" : "https://imgur.com/rAtddDA.jpg", "alt": ""},
+                { "url" : "https://imgur.com/Mv7Qock.jpg", "alt": ""}
+            ],
+            "vimeo": []
+        },
+        {
+            "title": "South Sea Cruises, (2018)",
+            "subtitle": "Digital and Photoshop work",
+            "text": [
+                "Digital and Photoshop work"
+            ],
+            "images":[
+                { "url" : "https://imgur.com/t6M9sDd.jpg", "alt": ""}
+            ],
+            "vimeo": []
+        },
+        {
             "title": "CBRE Event Invitations, (2017)",
             "subtitle": "Design & Concept",
             "text": [
@@ -239,19 +276,6 @@
             ],
             "images":[{ "url" : "https://imgur.com/tNuBnP3.jpg", "alt": ""}],
             "vimeo": ["168127098"]
-        },       
-        {
-            "title": "Ellie Earle Branding",
-            "subtitle": "",
-            "text": [
-                "This is a logo and brand I created to market myself and my skills as a designer. I wanted to create imagery out of typography for the logo itself, which portrayed a sense of creativity and innovative thinking."
-            ],
-            "images":[
-                { "url" : "https://i.imgur.com/7j9fDlh.jpg", "alt": ""},
-                { "url" : "https://i.imgur.com/jICIaCQ.jpg", "alt": ""}
-                
-            ],
-            "vimeo": []
         }
         
     ]
