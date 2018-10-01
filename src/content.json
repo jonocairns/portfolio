@@ -3,7 +3,7 @@
     "about": {
         "title": "About Me",
         "paragraphs": [
-            "I’m a results-driven, passionate designer whose strength is in creative storytelling. I have experience in both corporate and creative design (both print & digital) and a strong background in marketing. As a bonus, I’m also trained in 3D animation, post-production, visual effects, production, and a variety of other creative fields. I also have a fair understanding of the software development industry and its processes. I enjoy a bit of anything creative, but eventually I want to end up either designing my heart out in a creative/advertising agency, or working in a 3D/Post production house as a character animator."
+            "I’m a results-driven, passionate designer whose strength is in lateral creative thinking. I'm fascinated with technology and really enjoy figuring out faster, more innovative ways to get things done. I'm a big advocate of working smarter, not harder, and I enjoy a fast-paced, challenging environment. I work best with people in a collaborative team environment, but I'm just as happy working on my own. Plonk me in front of some creative software or give me a pencil & paper, and I'm happy. My favourite part of being a Graphic Designer is taking someone's specifications and making something out of them that looks awesome."
         ]
     },
     "contact": {
@@ -147,11 +147,12 @@
             "title": "Ellie Earle Branding",
             "subtitle": "",
             "text": [
-                "This is a logo and brand I created to market myself and my skills as a designer. All the logos and icons are creacted from typography. As well as a logo, title & icons, I also created business cards & letterheads."
+                "This is a logo and brand I created to market myself and my skills as a designer."
             ],
             "images":[
-                { "url" : "https://imgur.com/2RPFtbO.jpg", "alt": ""},
-                { "url" : "https://imgur.com/XkEJKTS.jpg", "alt": ""}
+                { "url" : "https://imgur.com/XkEJKTS.jpg", "alt": ""},
+                { "url" : "https://imgur.com/2RPFtbO.jpg", "alt": ""}
+                
                 
             ],
             "vimeo": []
@@ -160,7 +161,7 @@
             "title": "South Sea Cruises, (2018)",
             "subtitle": "Printed Collateral",
             "text": [
-                "Printed collateral for various brands"
+                "Printed collateral for various brands under the South Sea Cruises Umbrella brand."
             ],
             "images":[
                 { "url" : "https://imgur.com/O8O1vOc.jpg", "alt": ""},
@@ -173,7 +174,7 @@
             "title": "South Sea Cruises, (2018)",
             "subtitle": "Digital and Photoshop work",
             "text": [
-                "Digital and Photoshop work"
+                "Digital and Photoshop work I did at South Sea Cruises for online collateral."
             ],
             "images":[
                 { "url" : "https://imgur.com/t6M9sDd.jpg", "alt": ""}
