@@ -16,11 +16,13 @@ class ProjectDetail extends Component {
             <div className="col-12 col-md-9">
                 {project.images.map((p, i) =>
                     <img src={p.url}
-                        className="w-100"
+                        className="w-100 pb-3"
                         key={`project-det-${i}`}
                     />
                 )}
-
+                {project.vimeo.map((v, i) => 
+                    <iframe src={`https://player.vimeo.com/video/${v}`} className="w-100 h-100" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                )}
             </div>
             <div className="col-12 col-md-3">
                 <p><b>Project Type: </b>{project.title}</p>

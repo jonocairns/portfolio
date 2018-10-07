@@ -2,173 +2,158 @@
     "projects": [
         {
             "id": 0,
-            "title": "Ellie Earle Branding",
+            "title": "Customer Printed Collateral",
             "subtitle": "",
             "text": [
-                "This is a logo and brand I created to market myself and my skills as a designer."
+                "Brochures and promotional information booklets I designed while at South Sea Cruises for the brands Malamala Beach Club and Blue Lagoon Cruises."
             ],
-            "hero": "/hero/2.jpg",
+            "hero": "/hero/HeroImage.jpg",
             "images":[
-                { "url" : "https://imgur.com/XkEJKTS.jpg", "alt": ""},
-                { "url" : "https://imgur.com/2RPFtbO.jpg", "alt": ""}
+                { "url" : "/project-types/1customer-collateral/MC-brochure.jpg", "alt": ""},
+                { "url" : "/project-types/1customer-collateral/MBC-weddings.jpg", "alt": ""},
+                { "url" : "/project-types/1customer-collateral/BLC-brochure.jpg", "alt": ""},
+                { "url" : "/project-types/1customer-collateral/BLC-our-story.jpg", "alt": ""},
+                { "url" : "/project-types/1customer-collateral/MBC-ticket-wallet.jpg", "alt": ""}
+                
             ],
-            "credits": "none",
+            "credits": "I did not create the logos or brand assets for the collateral seen here. All logos, brand assets and completed works are property of South Sea Cruises Ltd. Their display here is for promotional purposes of my work only.",
             "vimeo": []
-        },
+        }, 
         {
             "id": 1,
-            "title": "South Sea Cruises, (2018)",
-            "subtitle": "Printed Collateral",
+            "title": "Posters & Ads",
+            "subtitle": "",
             "text": [
-                "Printed collateral for various brands under the South Sea Cruises Umbrella brand."
+                "The Malamala Beach Club and Blue Lagoon Cruises ads here are for magazine application, but I generally also made digital versions for social media promotion such as instagram and facebook tiles. The last one is a creative movie poster I made to advertise myself and my creative skills in 2017."
             ],
-            "hero": "/hero/10.jpg",
+            "hero": "/hero/HeroImage2.jpg",
             "images":[
-                { "url" : "https://imgur.com/O8O1vOc.jpg", "alt": ""},
-                { "url" : "https://imgur.com/rAtddDA.jpg", "alt": ""},
-                { "url" : "https://imgur.com/Mv7Qock.jpg", "alt": ""}
+                { "url" : "/project-types/2poster-ads/MBC-ad.jpg", "alt": ""},
+                { "url" : "/project-types/2poster-ads/UE-poster.jpg", "alt": ""},
+                { "url" : "/project-types/2poster-ads/BLC-ad.jpg", "alt": ""},
+                { "url" : "/project-types/2poster-ads/ellie-poster.jpg", "alt": ""}
             ],
-            "credits": "none",
+            "credits": "I did not create the logos or brand assets for the branded collateral seen here. All logos, brand assets and completed works are property of South Sea Cruises Ltd. Their display here is for promotional purposes of my work only.",
             "vimeo": []
         },
         {
             "id": 2,
-            "title": "South Sea Cruises, (2018)",
-            "subtitle": "Digital and Photoshop work",
+            "title": "Signage",
+            "subtitle": "",
             "text": [
-                "Digital and Photoshop work I did at South Sea Cruises for online collateral."
+                "Signage work for multiple brands such as Blue Lagoon Cruises, South Sea Cruises and Awesome Adventures Fiji."
             ],
-            "hero": "/hero/2.jpg",
+            "hero": "/hero/HeroImage3.jpg",
             "images":[
-                { "url" : "https://imgur.com/t6M9sDd.jpg", "alt": ""}
+                { "url" : "/project-types/3signage/BLC-water-sign.jpg", "alt": ""},
+                { "url" : "/project-types/3signage/BLC-fire-sign.jpg", "alt": ""},
+                { "url" : "/project-types/3signage/AAF-sign.jpg", "alt": ""},
+                { "url" : "/project-types/3signage/SSC-information-sign.jpg", "alt": ""},
+                { "url" : "/project-types/3signage/SSC-sandwich-board.jpg", "alt": ""}
             ],
-            "credits": "none",
+            "credits": "I did not create the logos or brand assets for the branded collateral seen here. All logos, brand assets and completed works are property of South Sea Cruises Ltd. Their display here is for promotional purposes of my work only. Sandwich board mockup is from https://psdfreebies.com/",
             "vimeo": []
         },
         {
             "id": 3,
-            "title": "CBRE Event Invitations, (2017)",
-            "subtitle": "Design & Concept",
+            "title": "Typography",
+            "subtitle": "",
             "text": [
-                "These are invitations I designed for internal and external events at CBRE. The first is the 2017 CBRE Melbourne Cup,for which I presented 2 options for consideration. The second was an invitation for an internal event, Christchurch’s annual Drinks & Canapés for employees. I designed this around the style that was chosen for the Melbourne Cup Invite - a corporate, simple design that would emphasize the rough, thick texture of the card that it would be printed on."
+                "The following are motivational posters created for agents at CBRE. They demonstrate typography while working to brand guidelines."
             ],
-            "hero": "/hero/9.jpg",
+            "hero": "/hero/HeroImage4.jpg",
             "images":[
-                { "url" : "https://i.imgur.com/X6CjkTy.jpg", "alt": ""},
-                { "url" : "https://i.imgur.com/rBq5JON.jpg", "alt": ""},
-                { "url" : "https://imgur.com/XINoWXu.jpg", "alt": ""}
+                { "url" : "/project-types/4typography/CBRE-motivational1.jpg", "alt": ""},
+                { "url" : "/project-types/4typography/CBRE-motivational2.jpg", "alt": ""},
+                { "url" : "/project-types4typography/CBRE-motivational3.jpg", "alt": ""},
+                { "url" : "/project-types/4typography/CBRE-motivational4.jpg", "alt": ""},
+                { "url" : "/project-types/4typography/CBRE-dos-and-donts.jpg", "alt": ""}
             ],
-            "credits": "none",
+            "credits": "I did not create the logos or brand assets for the branded collateral seen here. All logos, brand assets and completed works are property of CBRE. Their display here is for promotional purposes of my work only.",
             "vimeo": []
         },
         {
             "id": 4,
-            "title": "Motivational Quotes Posters (2017)",
-            "subtitle": "Branded Typography",
+            "title": "Logo Design",
+            "subtitle": "",
             "text": [
-                "This is a series of CBRE staff’s favourite work quotes, to make into motivational posters, that would be hung up around the Auckland and Christchurch offices."
+                "I didn't get to design the logos and branding at my current position, so I decided to create one for myself. My branding and logo is designed to market my skills as a creative designer."
             ],
-            "hero": "/hero/5.jpg",
+            "hero": "/hero/HeroImage5.jpg",
             "images":[
-                { "url" : "https://imgur.com/WWnMUlk.jpg", "alt": ""},
-                { "url" : "https://i.imgur.com/iSvMdPQ.jpg", "alt": ""}
+                { "url" : "/project-types/5logo-design/business-card.jpg", "alt": ""},
+                { "url" : "/project-types/5logo-design/logo-sign.jpg", "alt": ""},
+                { "url" : "/project-types/5logo-design/logo-letterhead.jpg", "alt": ""},
+                { "url" : "/project-types/5logo-design/logos.jpg", "alt": ""}
             ],
-            "credits": "none",
+            "credits": "The business card mockup is from https://psdfreebies.com/",
             "vimeo": []
         },
         {
             "id": 5,
-            "title": "DO's and DON'T's Poster CBRE (2017)",
+            "title": "Photoshop work",
             "subtitle": "",
             "text": [
-                "This was a poster commissioned by the Christchurch office of CBRE to create a words-of-wisdom style piece to impart some selling advice for the agents."
+                "Here we have some examples of photoshop work I've done - both for South Sea Cruises and to create the elements you see in this very portfolio."
             ],
-            "hero": "/hero/6.jpg",
+            "hero": "/hero/HeroImage8.jpg",
             "images":[
-                { "url" : "https://i.imgur.com/MCgNbwA.jpg", "alt": ""}
+                { "url" : "/project-types/8photoshop-work/BLC-ad-fiji-airways.jpg", "alt": ""},
+                { "url" : "/project-types/8photoshop-work/polaroids-BLC.jpg", "alt": ""},
+                { "url" : "/project-types/8photoshop-work/MBC-ad-borthday.jpg", "alt": ""},
+                { "url" : "/project-types/8photoshop-work/Polaroid-MBC-birthday.jpg", "alt": ""},
+                { "url" : "/project-types/8photoshop-work/MBC-ad-denarau.jpg", "alt": ""},
+                { "url" : "/project-types/8photoshop-work/Polaroids-MBC-island.jpg", "alt": ""}
             ],
-            "credits": "none",
+            "credits": "I did not create the logos or brand assets for the branded collateral seen here. All logos, brand assets and completed works are property of South Sea Cruises Ltd. Their display here is for promotional purposes of my work only.",
             "vimeo": []
         },
         {
             "id": 6,
-            "title": "AECOM House Asset Management Proposal (2017)",
-            "subtitle": "Corporate branded document design",
+            "title": "Corporate Event Marketing",
+            "subtitle": "",
             "text": [
-                "In his example, we had only 3 pages maximum to convey a large amount of fairly dry information. Instead of laying it out in sequential blocks of text, I decided to use 2 of the pages in a spread to create a flow chart which would contain most of the relevant information."
+                "This is marketing and collateral I did - both printed and digital versions - for CBRE events."
             ],
-            "hero": "/hero/7.jpg",
+            "hero": "/hero/HeroImage7.jpg",
             "images":[
-                { "url" : "https://imgur.com/Dc5jkys.jpg", "alt": ""}
+                { "url" : "/project-types/7event-marketing/milstone-pullup.jpg", "alt": ""},
+                { "url" : "/project-types/7event-marketing/milestone-EDM.jpg", "alt": ""},
+                { "url" : "/project-types/7event-marketing/melbourne-cup-invite1.jpg", "alt": ""},
+                { "url" : "/project-types/7event-marketing/melbourne-cup-invite2.jpg", "alt": ""}
+
             ],
-            "credits": "none",
+            "credits": "I did not create the logos or brand assets for the branded collateral seen here. All logos, brand assets and completed works are property of CBRE. Their display here is for promotional purposes of my work only.",
             "vimeo": []
         },
         {
             "id": 7,
-            "title": "CBRE Ceremony Event “Milestone Club” (2017)",
-            "subtitle": "Corporate Event Marketing Collateral",
+            "title": "Corporate Global Reports & Infographics",
+            "subtitle": "",
             "text": [
-                "Below is the progression of a series of marketing collateral I designed for an award giving event at CBRE called the “Milestone Club”. This celebrated the achievements of agents from all around NZ over the past year."
+                "These are global coporate reports and infographics made for CBRE."
             ],
-            "hero": "/hero/8.jpg",
-            "images":[{ "url" : "https://imgur.com/hhPiUlm.jpg", "alt": ""}],
-            "credits": "none",
+            "hero": "/hero/HeroImage6.jpg",
+            "images":[
+                { "url" : "/project-types/6corporate-flowcharts/CBRE-millennials.jpg", "alt": ""},
+                { "url" : "/project-types/6corporate-flowcharts/AECOM-flowchart.jpg", "alt": ""}
+
+            ],
+            "credits": "I did not create the logos or brand assets for the branded collateral seen here. All logos, brand assets and completed works are property of CBRE. Their display here is for promotional purposes of my work only.",
             "vimeo": []
         },
         {
             "id": 8,
-            "title": "Millenials: Separating fact from fiction (2017)",
-            "subtitle": "Major Real-Estate Research Report Design",
+            "title": "Showreel",
+            "subtitle": "",
             "text": [
-                "In his example, I used strategically placed stock images, typography & infographics to convey research information, a lot of which was numbers and statistics. There were also many graphs required, and I tried to vary these in style to keep it interesting."
+                "This is my showreel of Production, Post Production & 3D work from my years as a student at CPIT, Natcoll and Media Design School. For my full qualifications list, click the About button above."
             ],
-            "hero": "/hero/9.jpg",
+            "hero": "/hero/HeroImage9.jpg",
             "images":[
-                { "url" : "https://i.imgur.com/l5aMzWM.jpg", "alt": ""},
-                { "url" : "https://imgur.com/hmON2TI.jpg", "alt": ""},
-                { "url" : "https://imgur.com/Q8WjBzC.jpg", "alt": ""},
-                { "url" : "https://i.imgur.com/ebb7n2g.jpg", "alt": ""}            
             ],
-            "credits": "none",
-            "vimeo": []
-        },
-        {
-            "id": 9,
-            "title": "First Blood",
-            "subtitle": "Poster Concept Art",
-            "text": [
-                "As a creative project for myself, I made a poster to advertise myself and my skills, based on an idiom. The one I chose was “Drawing First Blood”."
-            ],
-            "hero": "/hero/2.jpg",
-            "images":[{ "url" : "https://i.imgur.com/DSItulR.jpg", "alt": ""}],
-            "credits": "none",
-            "vimeo": []
-        },
-        {
-            "id": 10,
-            "title": "Spank Product Design",
-            "subtitle": "Product concept, design, & marketing with advertsising campaign",
-            "text": [
-                "Spank is a fictional aphrodisiac drink which I created a concept and marketing campaign for as part of my final project at Nacoll. I also created a set of 4 ads for the product. You can view them below."
-            ],
-            "hero": "/hero/2.jpg",
-            "images":[{ "url" : "https://i.imgur.com/NAkQwaO.jpg", "alt": ""}],
-            "credits": "none",
-            "vimeo": ["144853918", "144854388", "144853147", "144853479"]
-        },
-        {
-            "id": 11,
-            "title": "Showreel 2016",
-            "subtitle": "Production, Post-Production and 3D Design/Animation work",
-            "text": [
-                "This is my showreel from a collection of works I've done from 2011-2016 while studying and after. Specifically it showcases my ability as a creature and character keyframe animator from concept/previs stage right through to completion"
-            ],
-            "hero": "/hero/2.jpg",
-            "images":[{ "url" : "https://imgur.com/tNuBnP3.jpg", "alt": ""}],
-            "credits": "none",
+            "credits": "A big thanks to all the staff and students at New Zealand Broadcasting School, Digital Video Post Production (CPIT), Christchurch's Natcoll and Media Design School. A full shot breakdown for this show reel can be supplied on request.",
             "vimeo": ["168127098"]
         }
-        
     ]
 }
