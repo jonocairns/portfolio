@@ -1,0 +1,159 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "title": "Customer Printed Collateral",
+            "subtitle": "",
+            "text": [
+                "Brochures and promotional information booklets I designed while at South Sea Cruises for the brands Malamala Beach Club and Blue Lagoon Cruises."
+            ],
+            "hero": "/hero/HeroImage.jpg",
+            "images":[
+                { "url" : "/project-types/1customer-collateral/MC-brochure.jpg", "alt": ""},
+                { "url" : "/project-types/1customer-collateral/MBC-weddings.jpg", "alt": ""},
+                { "url" : "/project-types/1customer-collateral/BLC-brochure.jpg", "alt": ""},
+                { "url" : "/project-types/1customer-collateral/BLC-our-story.jpg", "alt": ""},
+                { "url" : "/project-types/1customer-collateral/MBC-ticket-wallet.jpg", "alt": ""}
+                
+            ],
+            "credits": "I did not create the logos or brand assets for the collateral seen here. All logos, brand assets and completed works are property of South Sea Cruises Ltd. Their display here is for promotional purposes of my work only.",
+            "vimeo": []
+        }, 
+        {
+            "id": 1,
+            "title": "Posters & Ads",
+            "subtitle": "",
+            "text": [
+                "The Malamala Beach Club and Blue Lagoon Cruises ads here are for magazine application, but I generally also made digital versions for social media promotion such as instagram and facebook tiles. The last one is a creative movie poster I made to advertise myself and my creative skills in 2017."
+            ],
+            "hero": "/hero/HeroImage2.jpg",
+            "images":[
+                { "url" : "/project-types/2poster-ads/MBC-ad.jpg", "alt": ""},
+                { "url" : "/project-types/2poster-ads/UE-poster.jpg", "alt": ""},
+                { "url" : "/project-types/2poster-ads/BLC-ad.jpg", "alt": ""},
+                { "url" : "/project-types/2poster-ads/ellie-poster.jpg", "alt": ""}
+            ],
+            "credits": "I did not create the logos or brand assets for the branded collateral seen here. All logos, brand assets and completed works are property of South Sea Cruises Ltd. Their display here is for promotional purposes of my work only.",
+            "vimeo": []
+        },
+        {
+            "id": 2,
+            "title": "Signage",
+            "subtitle": "",
+            "text": [
+                "Signage work for multiple brands such as Blue Lagoon Cruises, South Sea Cruises and Awesome Adventures Fiji."
+            ],
+            "hero": "/hero/HeroImage3.jpg",
+            "images":[
+                { "url" : "/project-types/3signage/BLC-water-sign.jpg", "alt": ""},
+                { "url" : "/project-types/3signage/BLC-fire-sign.jpg", "alt": ""},
+                { "url" : "/project-types/3signage/AAF-sign.jpg", "alt": ""},
+                { "url" : "/project-types/3signage/SSC-information-sign.jpg", "alt": ""},
+                { "url" : "/project-types/3signage/SSC-sandwich-board.jpg", "alt": ""}
+            ],
+            "credits": "I did not create the logos or brand assets for the branded collateral seen here. All logos, brand assets and completed works are property of South Sea Cruises Ltd. Their display here is for promotional purposes of my work only. Sandwich board mockup is from https://psdfreebies.com/",
+            "vimeo": []
+        },
+        {
+            "id": 3,
+            "title": "Typography",
+            "subtitle": "",
+            "text": [
+                "The following are motivational posters created for agents at CBRE. They demonstrate typography while working to brand guidelines."
+            ],
+            "hero": "/hero/HeroImage4.jpg",
+            "images":[
+                { "url" : "/project-types/4typography/CBRE-motivational1.jpg", "alt": ""},
+                { "url" : "/project-types/4typography/CBRE-motivational2.jpg", "alt": ""},
+                { "url" : "/project-types4typography/CBRE-motivational3.jpg", "alt": ""},
+                { "url" : "/project-types/4typography/CBRE-motivational4.jpg", "alt": ""},
+                { "url" : "/project-types/4typography/CBRE-dos-and-donts.jpg", "alt": ""}
+            ],
+            "credits": "I did not create the logos or brand assets for the branded collateral seen here. All logos, brand assets and completed works are property of CBRE. Their display here is for promotional purposes of my work only.",
+            "vimeo": []
+        },
+        {
+            "id": 4,
+            "title": "Logo Design",
+            "subtitle": "",
+            "text": [
+                "I didn't get to design the logos and branding at my current position, so I decided to create one for myself. My branding and logo is designed to market my skills as a creative designer."
+            ],
+            "hero": "/hero/HeroImage5.jpg",
+            "images":[
+                { "url" : "/project-types/5logo-design/business-card.jpg", "alt": ""},
+                { "url" : "/project-types/5logo-design/logo-sign.jpg", "alt": ""},
+                { "url" : "/project-types/5logo-design/logo-letterhead.jpg", "alt": ""},
+                { "url" : "/project-types/5logo-design/logos.jpg", "alt": ""}
+            ],
+            "credits": "The business card mockup is from https://psdfreebies.com/",
+            "vimeo": []
+        },
+        {
+            "id": 5,
+            "title": "Photoshop work",
+            "subtitle": "",
+            "text": [
+                "Here we have some examples of photoshop work I've done - both for South Sea Cruises and to create the elements you see in this very portfolio."
+            ],
+            "hero": "/hero/HeroImage8.jpg",
+            "images":[
+                { "url" : "/project-types/8photoshop-work/BLC-ad-fiji-airways.jpg", "alt": ""},
+                { "url" : "/project-types/8photoshop-work/polaroids-BLC.jpg", "alt": ""},
+                { "url" : "/project-types/8photoshop-work/MBC-ad-borthday.jpg", "alt": ""},
+                { "url" : "/project-types/8photoshop-work/Polaroid-MBC-birthday.jpg", "alt": ""},
+                { "url" : "/project-types/8photoshop-work/MBC-ad-denarau.jpg", "alt": ""},
+                { "url" : "/project-types/8photoshop-work/Polaroids-MBC-island.jpg", "alt": ""}
+            ],
+            "credits": "I did not create the logos or brand assets for the branded collateral seen here. All logos, brand assets and completed works are property of South Sea Cruises Ltd. Their display here is for promotional purposes of my work only.",
+            "vimeo": []
+        },
+        {
+            "id": 6,
+            "title": "Corporate Event Marketing",
+            "subtitle": "",
+            "text": [
+                "This is marketing and collateral I did - both printed and digital versions - for CBRE events."
+            ],
+            "hero": "/hero/HeroImage7.jpg",
+            "images":[
+                { "url" : "/project-types/7event-marketing/milstone-pullup.jpg", "alt": ""},
+                { "url" : "/project-types/7event-marketing/milestone-EDM.jpg", "alt": ""},
+                { "url" : "/project-types/7event-marketing/melbourne-cup-invite1.jpg", "alt": ""},
+                { "url" : "/project-types/7event-marketing/melbourne-cup-invite2.jpg", "alt": ""}
+
+            ],
+            "credits": "I did not create the logos or brand assets for the branded collateral seen here. All logos, brand assets and completed works are property of CBRE. Their display here is for promotional purposes of my work only.",
+            "vimeo": []
+        },
+        {
+            "id": 7,
+            "title": "Corporate Global Reports & Infographics",
+            "subtitle": "",
+            "text": [
+                "These are global coporate reports and infographics made for CBRE."
+            ],
+            "hero": "/hero/HeroImage6.jpg",
+            "images":[
+                { "url" : "/project-types/6corporate-flowcharts/CBRE-millennials.jpg", "alt": ""},
+                { "url" : "/project-types/6corporate-flowcharts/AECOM-flowchart.jpg", "alt": ""}
+
+            ],
+            "credits": "I did not create the logos or brand assets for the branded collateral seen here. All logos, brand assets and completed works are property of CBRE. Their display here is for promotional purposes of my work only.",
+            "vimeo": []
+        },
+        {
+            "id": 8,
+            "title": "Showreel",
+            "subtitle": "",
+            "text": [
+                "This is my showreel of Production, Post Production & 3D work from my years as a student at CPIT, Natcoll and Media Design School. For my full qualifications list, click the About button above."
+            ],
+            "hero": "/hero/HeroImage9.jpg",
+            "images":[
+            ],
+            "credits": "A big thanks to all the staff and students at New Zealand Broadcasting School, Digital Video Post Production (CPIT), Christchurch's Natcoll and Media Design School. A full shot breakdown for this show reel can be supplied on request.",
+            "vimeo": ["168127098"]
+        }
+    ]
+}

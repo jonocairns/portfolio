@@ -40,3 +40,12 @@ a, a:hover, a:visited, a:active {
 .notable-font {
   font-family: 'Notable', sans-serif;
 }
+
+.hover-img {
+	opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.hover-img:hover {
+	opacity: .5;
+}
