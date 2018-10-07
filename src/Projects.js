@@ -20,8 +20,8 @@ class Projects extends Component {
                             className="m-2"
                             key={`project-${i}`} 
                             style={{ 
-                                width: '350px', 
-                                minHeight: '350px', 
+                                width: '300px', 
+                                minHeight: '300px', 
                                 backgroundImage: `url(${p.hero})`,
                                 backgroundSize: 'cover',
                                 backgroundRepeat: 'norepeat'}}
