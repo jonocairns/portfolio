@@ -12,10 +12,10 @@ class Section extends Component {
                 {this.props.items.map((item, index) =>
                     <div key={`item-${index}`} className="mb-4">
                         {item.link ? 
-                        <a href={item.link}><h6 className="text-uppercase font-weight-bold">{item.title}</h6></a> : 
-                        <h5>{item.title}</h5>}
+                        <a href={item.link} target="_blank"><h6 className="font-weight-bold d-inline">{item.title}</h6> • <span className="App-text"><b>{item.subtitle}</b></span></a> : 
+                        <h6><b>{item.title}</b></h6>}
                         
-                        <p className="App-text">{item.subtitle}</p>
+                        {!item.link && <p>{item.subtitle}</p>}
                         <ul className="p-0 m-0 pl-4 App-text">
                             {item.attributes.map((attr, index) =>
                                 <li key={`attr-${index}`}>{attr}</li>

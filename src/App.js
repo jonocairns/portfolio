@@ -2,37 +2,29 @@ import React, { Component } from 'react';
 import './App.scss';
 import Navbar from './Navbar';
 import Jumbotron from './Jumbotron';
-import About from './About';
-import Section from './Section';
-import Skills from './Skills';
 import Projects from './Projects';
-import content from './content.json';
-import Sidenav from './Sidenav';
-import Contact from './Contact';
-
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import Cv from './Cv';
+import ProjectDetail from './ProjectDetail';
 
 class App extends Component {
   render() {
 
-    return (
-      <div className="mb-5">
-        <Navbar />
-        <Jumbotron />
-        <div className="container">
-          <div className="row">
-          <div className="col-12 col-lg-8">
-            <About />
-            <Contact className="d-block d-lg-none" />
-            {content.sections.map((s, i) => <Section key={`section-${i}`} title={s.title} items={s.items} />)}
-            <Skills />
-            <Projects />
+    return (<Router>
+      <div>
+        <div className="mb-5">
+          <Navbar />
+          <Jumbotron />
+          <div className="container">
+            <div className="row">
+              <Route exact path="/" component={Projects} />
+              <Route exact path="/about" component={Cv} />
+              <Route path="/detail/:id" component={ProjectDetail} />
+            </div>
           </div>
-            <Sidenav />
-          </div>
-
         </div>
-
       </div>
+    </Router>
     );
   }
 }
