@@ -16,7 +16,7 @@
                 { "url" : "/project-types/1customer-collateral/MBC-ticket-wallet.jpg", "alt": ""}
                 
             ],
-            "credits": "I did not create the logos or brand assets for the collateral seen here. All logos, brand assets and completed works are property of South Sea Cruises Ltd. Their display here is for promotional purposes of my work only.",
+            "credits": "I did not create the logos or brand assets for the collateral seen here. All logos, brand assets and completed works are property of South Sea Cruises Ltd. Their display here is for promotional purposes of my work only. The trifold brochure mockup is from https://creativebooster.net",
             "vimeo": []
         }, 
         {
@@ -49,7 +49,7 @@
                 { "url" : "/project-types/3signage/BLC-fire-sign.jpg", "alt": ""},
                 { "url" : "/project-types/3signage/AAF-sign.jpg", "alt": ""},
                 { "url" : "/project-types/3signage/SSC-information-sign.jpg", "alt": ""},
-                { "url" : "/project-types/3signage/SSC-sandwich-board.jpg", "alt": ""}
+                { "url" : "/project-types/3signage/AAF-sandwich-board-V2.jpg", "alt": ""}
             ],
             "credits": "I did not create the logos or brand assets for the branded collateral seen here. All logos, brand assets and completed works are property of South Sea Cruises Ltd. Their display here is for promotional purposes of my work only. Sandwich board mockup is from https://psdfreebies.com/",
             "vimeo": []
@@ -65,7 +65,7 @@
             "images":[
                 { "url" : "/project-types/4typography/CBRE-motivational1.jpg", "alt": ""},
                 { "url" : "/project-types/4typography/CBRE-motivational2.jpg", "alt": ""},
-                { "url" : "/project-types4typography/CBRE-motivational3.jpg", "alt": ""},
+                { "url" : "/project-types4/typography/CBRE-motivational3.jpg", "alt": ""},
                 { "url" : "/project-types/4typography/CBRE-motivational4.jpg", "alt": ""},
                 { "url" : "/project-types/4typography/CBRE-dos-and-donts.jpg", "alt": ""}
             ],
@@ -128,7 +128,7 @@
         },
         {
             "id": 7,
-            "title": "Corporate Global Reports & Infographics",
+            "title": "Corporate Documents & Infographics",
             "subtitle": "",
             "text": [
                 "These are global coporate reports and infographics made for CBRE."
