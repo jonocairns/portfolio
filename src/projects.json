@@ -46,10 +46,10 @@
             "hero": "/hero/HeroImage3.jpg",
             "images":[
                 { "url" : "/project-types/3signage/BLC-water-sign.jpg", "alt": ""},
-                { "url" : "/project-types/3signage/BLC-fire-sign.jpg", "alt": ""},
+                { "url" : "/project-types/3signage/BLC-fire-sign-v2.jpg", "alt": ""},
                 { "url" : "/project-types/3signage/AAF-sign.jpg", "alt": ""},
                 { "url" : "/project-types/3signage/SSC-information-sign.jpg", "alt": ""},
-                { "url" : "/project-types/3signage/AAF-sandwich-board-V2.jpg", "alt": ""}
+                { "url" : "/project-types/3signage/AAF-sandwich-board-V3.jpg", "alt": ""}
             ],
             "credits": "I did not create the logos or brand assets for the branded collateral seen here. All logos, brand assets and completed works are property of South Sea Cruises Ltd. Their display here is for promotional purposes of my work only. Sandwich board mockup is from https://psdfreebies.com/",
             "vimeo": []
