@@ -13,9 +13,9 @@ class Cv extends Component {
         return (<React.Fragment>
             <div className="col-12 col-lg-8">
                 <About />
+                <Skills />
                 <Contact className="d-block d-lg-none" />
                 {content.sections.map((s, i) => <Section key={`section-${i}`} title={s.title} items={s.items} />)}
-                <Skills />
             </div>
             <Sidenav />
         </React.Fragment>

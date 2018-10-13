@@ -8,7 +8,7 @@ class Skills extends Component {
 
     return (
       <div>
-          <Heading title={`Software Proficiency`} anchor={"skills"}/>
+          <Heading title={`Skills & Experience`} anchor={"skills"}/>
           {content.skills.paragraphs.map((p, i) => 
               <p key={`skills-p-${i}`}>{p}</p>
           )}

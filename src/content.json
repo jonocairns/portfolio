@@ -3,7 +3,7 @@
     "about": {
         "title": "About Me",
         "paragraphs": [
-            "I’m a results-driven, passionate designer whose strength is in lateral creative thinking. I'm fascinated with technology and really enjoy figuring out faster, more innovative ways to get things done. I'm a big advocate of working smarter, not harder, and I enjoy a fast-paced, challenging environment. I work best with people in a collaborative team environment, but I'm just as happy working on my own. Plonk me in front of some creative software or give me a pencil & paper, and I'm happy. My favourite part of being a Graphic Designer is taking someone's specifications and making something out of them that looks awesome."
+            "I'm Ellie, a graphic designer with a background in several media design industries including 3D animation, film-making & post-production/VFX. My strengths lie in my communication skills and in lateral creative thinking. I'm fascinated with technology and really enjoy figuring out faster, more innovative ways to get things done. I'm a motivated team-player who thrives in a busy collaborative environment, but I am just as happy working on my own. Turning concepts into beautiful designs is my passion."
         ]
     },
     "contact": {
@@ -25,10 +25,13 @@
                     "link": "https://ssc.com.fj/",
                     "subtitle": "Graphic Designer for NZ and Fiji • Jan 2018 - Present",
                     "attributes": [
-                        "Designing assets for everything from printed marketing collateral to online assets and magazine advertisements for a range of brands including: South Sea Cruises, Day Cruises, Blue Lagoon Cruises, Awesome Adventures Fiji, Malamala Beach Club, Yasawa Islands Holidays, Vinaka Fiji Volunteering, Occasional work for other partner brands",
+                        "Designing assets for printed marketing collateral, online assets and magazine advertisements for a range of brands including: South Sea Cruises Day Cruises, Blue Lagoon Cruises, Awesome Adventures Fiji, Malamala Beach Club, Yasawa Islands Holidays, Vinaka Fiji Volunteering, Occasional work for other partner brands",
+                        "Creation and use of a variety of die-cuts for use in delivery of packaging design (folded cover inserts, door-hangers, coasters etc)",
                         "Co-ordinating and providing finished artwork to various print companies to their print specifications",
-                        "Delivering finished artwork in a range of formats to the specifications of the particular project",
-                        "Setting up functional design workflows to streamline the process from brief to delivery"
+                        "Setting up functional design workflows to streamline the process from brief to delivery",
+                        "Developing and recording a thorough understanding of the marketing across all brands including their target demographic, look & feel, brand message & colour pallettes",
+                        "Creation and maintenence of current brand guideline documents across all brands",
+                        "Understanding and implimentation of artwork delivery under pre-press specifications for a variety of publishers"
                     ]
                 },
                 {
@@ -42,7 +45,8 @@
                         "Administrative support for all the Auckland Marketing teams",
                         "Design of marketing collateral for, and helped organise corporate events",
                         "Assisted Senior Marketing Manager with the new content management system of the New Zealand website",
-                        "Assisted training new members in current processes and helping to develop new ones - including designing and creating training documents"
+                        "Assisted training new members in current processes and helping to develop new ones - including designing and creating training documents",
+                        "Learning, and creating documentation to provide others with, a thorough understanding of individual publisher's pre-press and print specifications/media kits"
                     ]
                 },
                 {
@@ -79,7 +83,7 @@
                 },
                 {
                     "title": "Diploma of Video Post Production - Advanced",
-                    "subtitle": "Natcoll Design Technology • June 2009 - April 2010",
+                    "subtitle": "Natcoll Design Technology • Jun 2009 - Apr 2010",
                     "attributes": []
                 },
                 {
@@ -101,19 +105,47 @@
         ],
         "items": [
             {
-                "title": "Photoshop",
+                "title": "Written & Verbal Communication Skills",
                 "percent": 80
             },
             {
-                "title": "Indesign",
+                "title": "Teamwork & Leadership",
+                "percent": 80
+            },
+            {
+                "title": "Self-Learning",
+                "percent": 80
+            },
+            {
+                "title": "Digital & Print Graphic Design",
+                "percent": 80
+            },
+            {
+                "title": "Packaging Design",
+                "percent": 80
+            },
+            {
+                "title": "Marketing",
+                "percent": 80
+            },
+            {
+                "title": "Adobe Photoshop",
+                "percent": 80
+            },
+            {
+                "title": "Adobe Indesign",
                 "percent": 85
             },
             {
-                "title": "Illustrator",
+                "title": "Adobe Illustrator",
                 "percent": 60
             },
             {
-                "title": "After Effects",
+                "title": "Adobe Premiere Pro/Editing",
+                "percent": 85
+            },
+            {
+                "title": "Adobe After Effects/Visual Effects",
                 "percent": 80
             },
             {
@@ -121,12 +153,8 @@
                 "percent": 91
             },
             {
-                "title": "Autodesk Maya",
+                "title": "Autodesk Maya/3D animation",
                 "percent": 90
-            },
-            {
-                "title": "Premier Pro",
-                "percent": 85
             },
             {
                 "title": "Autodesk Mudbox",
