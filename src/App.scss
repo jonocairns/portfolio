@@ -49,3 +49,13 @@ a, a:hover, a:visited, a:active {
 .hover-img:hover {
 	opacity: .5;
 }
+
+.dashes {
+  list-style: none;
+
+  li:before {
+    content: '•';
+    position: absolute;
+    margin-left: -10px;
+  }
+}

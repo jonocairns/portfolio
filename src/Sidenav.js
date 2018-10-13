@@ -22,7 +22,7 @@ class Sidenav extends Component {
                                 <a href={`mailto:${content.contact.email}`} >{content.contact.email}</a>
                             </li>
                             <li className="p-2" role="button">
-                                <a href={content.contact.social.linkedIn}>ellieearleonlinkedin</a>
+                                <a href={`https://www.linkedin.com/in/${content.contact.social.linkedIn}`}>{content.contact.social.linkedIn}</a>
                             </li>
                             <li className="p-2" role="button">
                                 <a target="_blank" href={`tel:${content.contact.phone}`} >{content.contact.phone}</a>

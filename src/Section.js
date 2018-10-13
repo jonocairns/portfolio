@@ -16,7 +16,7 @@ class Section extends Component {
                         <h6><b>{item.title}</b></h6>}
                         
                         {!item.link && <p>{item.subtitle}</p>}
-                        <ul className="p-0 m-0 pl-4 App-text">
+                        <ul className="pt-2 p-0 m-0 pl-4 App-text dashes">
                             {item.attributes.map((attr, index) =>
                                 <li key={`attr-${index}`}>{attr}</li>
                             )}

@@ -12,8 +12,8 @@
         "phone": "(+64) 21 866 629",
         "email": "elizabeth.h.earle@gmail.com",
         "social": {
-            "linkedIn": "https://www.linkedin.com/in/ellieearleonlinkedin",
-            "vimeo": "https://vimeo.com/ellieearle"
+            "linkedIn": "ellieearleonlinkedin",
+            "vimeo": "ellieearle"
         }
     },
     "sections": [
@@ -100,9 +100,7 @@
         }
     ],
     "skills": {
-        "paragraphs": [
-            ""
-        ],
+        "paragraphs": [],
         "items": [
             {
                 "title": "Written & Verbal Communication Skills",
