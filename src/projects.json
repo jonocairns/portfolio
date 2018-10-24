@@ -2,42 +2,54 @@
     "projects": [
         {
             "id": 0,
-            "title": "Customer Printed Collateral",
+            "title": "Printed marketing collateral",
             "subtitle": "",
             "text": [
-                "Brochures and promotional information booklets I designed while at South Sea Cruises for the brands Malamala Beach Club and Blue Lagoon Cruises."
+                "The following work is printed marketing collateral done while at South Sea Cruises and at CBRE. At South Sea Cruises I had the opportunity to do a large variety of this kind of work, from posters to magazine ads and brochures. The brands under South Sea Cruises Ltd were varied, and all had their own brand considerations including target demographic, colour palettes and look and feel. At CBRE, the challenge was taking what was often very dry information and presenting it in formats that were interesting and pleasing to look at, while still keeping with the brand guidelines."
             ],
-            "hero": "/hero/comingsoon.jpg",
+            "hero": "/hero/HeroImage.jpg",
             "images":[
+                { "url" : "/project-types/10SSC-approved/MBC-brochure-mockup.jpg", "alt": ""},
+                { "url" : "/project-types/10SSC-approved/MBC-weddings-mockup.jpg", "alt": ""},
+                { "url" : "/project-types/6corporate-flowcharts/CBRE-millennials.jpg", "alt": ""},
+                { "url" : "/project-types/6corporate-flowcharts/AECOM-flowchart.jpg", "alt": ""}
             ],
-            "credits": "I did not create the logos or brand assets for the collateral seen here. All logos, brand assets and completed works are property of South Sea Cruises Ltd. Their display here is for promotional purposes of my work only. The trifold brochure mockup is from https://creativebooster.net",
+            "credits": "The work on this page was done by me while working at South Sea Cruises/CBRE, but all the finished work belongs to its respective company. All logos are copyrighted. I did not make the logos or the secondary assets, and I claim no ownership of the finished product or the assets/photographs used. Malamala Beach Club/Blue Lagoon Cruises is owned and operated by South Sea Cruises Ltd. The trifold brochure mockup is from https://creativebooster.net.",
             "vimeo": []
         }, 
         {
             "id": 1,
-            "title": "Posters & Ads",
+            "title": "Photoshop work",
             "subtitle": "",
             "text": [
-                "The Malamala Beach Club and Blue Lagoon Cruises ads here are for magazine application, but I generally also made digital versions for social media promotion such as instagram and facebook tiles. The last one is a creative movie poster I made to advertise myself and my creative skills in 2017."
+                 "The first asset on this page is a creative movie poster I made to advertise myself and my creative skills in 2017.I'd say I'm an intermediate Photoshop user, and I'm lucky I got to use this skill a lot while at South Sea Cruises. There were several photo-mashups for ads and promotions, but I also did general retouching work such as fixing lighting issues, colour editing, extending scenery, smoothing textures and removing flaws (objects and people)."
             ],
             "hero": "/hero/HeroImage2.jpg",
             "images":[
-                { "url" : "/project-types/2poster-ads/ellie-poster.jpg", "alt": ""}
+                { "url" : "/project-types/2poster-ads/ellie-poster.jpg", "alt": ""},
+                { "url" : "/project-types/10SSC-approved/MBC-polaroids-1.jpg", "alt": ""},
+                { "url" : "/project-types/10SSC-approved/MBC-present-final.jpg", "alt": ""}
             ],
-            "credits": "I did not create the logos or brand assets for the branded collateral seen here. All logos, brand assets and completed works are property of South Sea Cruises Ltd. Their display here is for promotional purposes of my work only.",
+            "credits": "The Blue Lagoon Cruises/Malamala Beach Club work on this page was done by me while working at South Sea Cruises, but all the finished work belongs to the company. All logos are copyrighted. I did not make the logos or the secondary assets, and I claim no ownership of the finished product or the assets/photographs used. Malamala Beach Club/Blue Lagoon Cruises are owned and operated by South Sea Cruises Ltd. Their display here is for promotional purposes of my work only.",
             "vimeo": []
         },
         {
             "id": 2,
-            "title": "Signage",
+            "title": "Logos & packaging design",
             "subtitle": "",
             "text": [
-                "Signage work for multiple brands such as Blue Lagoon Cruises, South Sea Cruises and Awesome Adventures Fiji."
+                "My Ellie Earle logo and branding was created to market my skills as a creative designer. It reflects an quirky, questioning personaily with a creative flair. I worked extensively with packaging design at South Sea Cruises, making die-cuts for everything from door-hangers to foldable a-frame signs like the one here."
             ],
-            "hero": "/hero/comingsoon.jpg",
+            "hero": "/hero/HeroImage5.jpg",
             "images":[
+                { "url" : "/project-types/5logo-design/business-card.jpg", "alt": ""},
+                { "url" : "/project-types/5logo-design/logo-sign.jpg", "alt": ""},
+                { "url" : "/project-types/5logo-design/logo-letterhead.jpg", "alt": ""},
+                { "url" : "/project-types/5logo-design/logos.jpg", "alt": ""},
+                { "url" : "/project-types/10SSC-approved/BLC-sign-die-cut.jpg", "alt": ""},
+                { "url" : "/project-types/10SSC-approved/BLC-sign-mockup.jpg", "alt": ""}
             ],
-            "credits": "I did not create the logos or brand assets for the branded collateral seen here. All logos, brand assets and completed works are property of South Sea Cruises Ltd. Their display here is for promotional purposes of my work only. Sandwich board mockup is from https://psdfreebies.com/",
+            "credits": "The Blue Lagoon Cruises & Malamala Beach Club work on this page was done by me while working at South Sea Cruises, but all the finished work belongs to the company. All logos are copyrighted. I did not make the logos or the secondary assets, and I claim no ownership of the finished product or the assets/photographs used. Malamala Beach Club/Blue Lagoon Cruises is owned and operated by South Sea Cruises Ltd. The business card mockup is from https://psdfreebies.com/",
             "vimeo": []
         },
         {
@@ -51,41 +63,11 @@
             "images":[
                 { "url" : "/project-types/4typography/CBRE-motivational1.jpg", "alt": ""},
                 { "url" : "/project-types/4typography/CBRE-motivational2.jpg", "alt": ""},
-                { "url" : "/project-types4/typography/CBRE-motivational3.jpg", "alt": ""},
+                { "url" : "/project-types/4typography/CBRE-motivational3.jpg", "alt": ""},
                 { "url" : "/project-types/4typography/CBRE-motivational4.jpg", "alt": ""},
                 { "url" : "/project-types/4typography/CBRE-dos-and-donts.jpg", "alt": ""}
             ],
             "credits": "I did not create the logos or brand assets for the branded collateral seen here. All logos, brand assets and completed works are property of CBRE. Their display here is for promotional purposes of my work only.",
-            "vimeo": []
-        },
-        {
-            "id": 4,
-            "title": "Logo Design",
-            "subtitle": "",
-            "text": [
-                "I didn't get to design the logos and branding at my current position, so I decided to create one for myself. My branding and logo is designed to market my skills as a creative designer."
-            ],
-            "hero": "/hero/HeroImage5.jpg",
-            "images":[
-                { "url" : "/project-types/5logo-design/business-card.jpg", "alt": ""},
-                { "url" : "/project-types/5logo-design/logo-sign.jpg", "alt": ""},
-                { "url" : "/project-types/5logo-design/logo-letterhead.jpg", "alt": ""},
-                { "url" : "/project-types/5logo-design/logos.jpg", "alt": ""}
-            ],
-            "credits": "The business card mockup is from https://psdfreebies.com/",
-            "vimeo": []
-        },
-        {
-            "id": 5,
-            "title": "Photoshop work",
-            "subtitle": "",
-            "text": [
-                "Here we have some examples of photoshop work I've done - both for South Sea Cruises and to create the elements you see in this very portfolio."
-            ],
-            "hero": "/hero/comingsoon.jpg",
-            "images":[
-            ],
-            "credits": "I did not create the logos or brand assets for the branded collateral seen here. All logos, brand assets and completed works are property of South Sea Cruises Ltd. Their display here is for promotional purposes of my work only.",
             "vimeo": []
         },
         {
@@ -101,22 +83,6 @@
                 { "url" : "/project-types/7event-marketing/milestone-EDM.jpg", "alt": ""},
                 { "url" : "/project-types/7event-marketing/melbourne-cup-invite1.jpg", "alt": ""},
                 { "url" : "/project-types/7event-marketing/melbourne-cup-invite2.jpg", "alt": ""}
-
-            ],
-            "credits": "I did not create the logos or brand assets for the branded collateral seen here. All logos, brand assets and completed works are property of CBRE. Their display here is for promotional purposes of my work only.",
-            "vimeo": []
-        },
-        {
-            "id": 7,
-            "title": "Corporate Documents & Infographics",
-            "subtitle": "",
-            "text": [
-                "These are global coporate reports and infographics made for CBRE."
-            ],
-            "hero": "/hero/HeroImage6.jpg",
-            "images":[
-                { "url" : "/project-types/6corporate-flowcharts/CBRE-millennials.jpg", "alt": ""},
-                { "url" : "/project-types/6corporate-flowcharts/AECOM-flowchart.jpg", "alt": ""}
 
             ],
             "credits": "I did not create the logos or brand assets for the branded collateral seen here. All logos, brand assets and completed works are property of CBRE. Their display here is for promotional purposes of my work only.",

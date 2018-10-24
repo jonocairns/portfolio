@@ -15,9 +15,9 @@ class Projects extends Component {
                 <div className="d-flex justify-content-center flex-wrap">
 
                     {content.projects.map((p, i) =>
-                        <React.Fragment>
-                            {p.images.length === 0 && <div
-                                className="m-2"
+                        <Link role="button" to={`/detail/${p.id}`}>
+                            <div
+                                className="m-2 hover-img"
                                 key={`project-${i}`}
                                 style={{
                                     width: '300px',
@@ -27,23 +27,8 @@ class Projects extends Component {
                                     backgroundRepeat: 'norepeat'
                                 }}
                             >
-                            </div>}
-
-                            {p.images.length !== 0 && <Link role="button" to={`/detail/${p.id}`}>
-                                <div
-                                    className="m-2"
-                                    key={`project-${i}`}
-                                    style={{
-                                        width: '300px',
-                                        minHeight: '300px',
-                                        backgroundImage: `url(${p.hero})`,
-                                        backgroundSize: 'cover',
-                                        backgroundRepeat: 'norepeat'
-                                    }}
-                                >
-                                </div>
-                            </Link>}
-                        </React.Fragment>
+                            </div>
+                        </Link>
                     )}
                 </div>
             </div>
